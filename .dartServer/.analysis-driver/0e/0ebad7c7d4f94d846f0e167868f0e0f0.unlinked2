@@ -1,0 +1,616 @@
+€™vmServiceUrivmServiceInfoFileargtoJsonfromJsonrestartnamecwdenvadditionalProjectPathsdebugSdkLibrariessendCustomProgressEventsdebugExternalPackageLibrariesshowGettersInDebugViewsevaluateGettersInDebugViewsevaluateToStringInDebugViewssendLogsToClientallowAnsiColorOutputargs_debuggerInitializedCompleter_configurationDoneCompleterisolateManager
+_converter_subscriptions	vmServicedartSdkRootorgDartlangSdkMappings_dds_initializeArgsipv6	enableDdsenableAuthCodesloggerisAttach_evaluateNamesForInstanceRefIdsprojectPaths_hasSentTerminatedEventisTerminatingisDetachingpauseIsolatesOnStartSetByDappauseIsolatesOnExitSetByDap_lastOutputEvent_ddsCapabilitiestoolEventStreamIdpreventBreakingAndResumedebuggerInitializedinitializeArgssupportsRestartRequestterminateOnVmServiceClose_subscribeToOutputStreams
+attachImplattachRequestbuildEvaluateNamecombineEvaluateNameconfigurationDoneRequestconnectDebugger_startOrReuseDds_connectDebuggerImpl"_handleDebuggerInitializationErrorstartDdsuriConvertersendDebuggerUrisstartProgressNotification_configureIsolateSettings_setVmFlagTo_configureExistingIsolatescontinueRequestcustomRequestdebuggerConnecteddisconnectImpldisconnectRequestevaluateRequestextractEvaluationErrorMessage extractUnhandledExceptionMessagehandleDetachhandleSessionTerminateinitializeRequestisExternalPackageLibraryisInUserProjectisSdkLibrary
+launchImpllaunchRequestlaunchAndRespondlibraryIsDebuggablenextRequestpauseRequestrestartFrameRequestrestartRequestscopesRequestsendConsoleOutput
+sendOutputsendPrefixedOutputsetBreakpointsRequestsetExceptionBreakpointsRequestshutdownDebugeeshutdownconvertOrgDartlangSdkToPathconvertPathToOrgDartlangSdkconvertUriToOrgDartlangSdksourceRequeststackTraceRequeststepInRequeststepOutRequeststoreEvaluateNameterminateImplterminateRequestthreadsRequestvariablesRequest_getFrameGlobalsvmServiceUriToHttpvmServiceUriToWebSocket_buildOutputEvents&_buildOutputEventsWithSourceReferences_evaluateExceptionExpressionhandleDebugEventhandleExtensionEventhandleIsolateEventgetFullStringhandleLoggingEventhandleServiceEventresolveToolEventUrishandleToolEvent_handleStderrEvent_handleStdoutEvent_handleVmServiceClosed_logTraffic_prepareForLaunchOrAttach_sendOutputStreamEvent_sendServiceExtensionAdded_sendServiceRegistration_sendServiceUnregistration_updateDebugOptions_vmServiceConnectUri_wrapHandlerWithErrorHandling_waitForPendingOutputEvents_withErrorHandlingclientSupportsUriisSupportedFileSchemetoClientPathOrUrifromClientPathOrUrinoDebugprogramtoolArgsvmAdditionalArgsvmServicePortconsole
+customToolcustomToolReplacesArgsmajorminoremptysupportsCustomStreams
+_isAtLeastdartMimeTypemaxToStringsPerEvaluationthreadExceptionExpression_StreamEventHandler	_noResult_evalErrorMessagePattern_exceptionMessagePattern_trailingSemicolonPatternDartAttachRequestArguments&DartCommonLaunchAttachRequestArgumentsDartDebugAdapterDartLaunchRequestArguments_DdsCapabilities¾FutureOrvoidTRegExpAttachRequestArgumentsStringDebugAdapterArgumentReaderenvreadfromMapoverrideMapObjecttoJsonRequestArgumentsListboolreadOptionalMapreadOptionalListLaunchRequestArgumentsBaseDebugAdapter	FileUtils	CompleterIsolateManagerProtocolConverterStreamSubscriptionEvent	VmServiceUriDartDevelopmentServiceDartInitializeRequestArgumentsLoggerVariablecwddirnameprogramadditionalProjectPathsnonNullstoListTerminatedEventsendLogsToClientFuture
+SendOutputemptywaitclearAllBreakpointssetExceptionPauseMode	resumeAllByteStreamServerChannelFunctiononErrorclosedthenPlatformresolvedExecutableparsefutureevaluateToStringInDebugViewsInitializeRequestArgumentsRequestargsparentInstanceRefIdConfigurationDoneArgumentscompleteerrorstackcallwsUriDartDevelopmentServiceException	errorCodeexistingDdsInstanceErrortoStringgetSupportedProtocols	protocolsfirstWhereOrNullprotocolprotocolNamemajorminorsupportsCustomStreams	vmService	unawaitedonDoneaddAllonIsolateEventlistenonDebugEventonLoggingEventonExtensionEventonServiceEventonEventonStdoutEventonStderrEventstreamListenEventStreamskIsolatekDebugkLogging
+kExtensionkServicekStdoutkStderrgetVMnameoperatingSystem
+StackTraceUriConverterstartDartDevelopmentServiceenableAuthCodesipv6uriConverter	sendEventRawEventBody	eventTypeDapProgressReportermessagestartgetFlagListflagsFlagflagvalueAsStringflagNamerequirePermissionToResumeonPauseStartonPauseExitrequireUserPermissionToResumeesetFlagVMisolatesmap
+isolateRefid
+getIsolateIsolateisolaterunnable	EventKindkIsolateRunnablekIsolateStartregisterIsolate
+pauseEventkind
+startsWithhandleEventreadyToResumeIsolatethreadIdContinueArgumentsContinueResponseBodyresumeThreadallThreadsContinuedRawRequestArgumentscommandmethodDebugAdapterExceptioncallServiceExtensionparamsresponsejsonreloadSourcesareas	whereTypeInvalidatedEventBodystringArearscustomRequestDisconnectArgumentsEvaluateArgumentsEvaluateResponseBodyframeId
+ThreadInfointgetStoredDatathreaddataFrameindexcontextendsWithtryParseEvaluationExpression
+expressiontrimreplaceFirstformatVariableFormatfromDapValueFormatfromnoQuotesexceptionReferenceResponseevaluateInFramedisableBreakpointsthreadsfirstOrNullgetLibraryForFileUrievaluateErrorRefSentinelInstanceRef#convertVmInstanceRefToDisplayStringallowCallingToStringallowTruncatedValueisSimpleKind	storeDataVariableDataresultvariablesReferenceruntimeType
+firstMatchgroup
+exitSuffixTerminatedEventBodyCapabilitiesexceptionBreakpointFiltersExceptionBreakpointsFilterfilterlabeldefaultValuesupportsClipboardContextsupportsConditionalBreakpoints supportsConfigurationDoneRequest supportsDelayedStackTraceLoadingsupportsEvaluateForHoverssupportsValueFormattingOptionssupportsLogPointssupportsRestartRequestsupportsRestartFramesupportsTerminateRequestInitializedEventBodyisSchemeresolveUriToPackageLibPathurireplacescheme
+toFilePathtoLowerCaseprojectPathanyisWithinnoDebugdebugSdkLibrariesdebugExternalPackageLibrariesNextArguments
+StepOptionkOverPauseArgumentspauseThreadRestartFrameArgumentsrewindThread
+frameIndexRestartArgumentsScopesArgumentsScopesResponseBodyScopeaddpresentationHintFrameScopeDataFrameScopeDataKindlocals	expensiveglobalsscopesOutputEventBodyoutput
+DeprecatedvalueforEachlength	trimRightsplitjoinsourcepathSetBreakpointsArgumentsSetBreakpointsResponseBodybreakpointsnormalizeUriClientBreakpointbpsetBreakpoints
+Breakpointverified SetExceptionBreakpointsArguments#SetExceptionBreakpointsResponseBodyfilterscontains
+nonVirtualshutdowndelayedDurationmillisecondsentriesmappingkeyfilejoinAllpathSegmentsskiprelativehostSourceArgumentsSourceResponseBodysourceReference
+StateError	ScriptRef	getScriptcontentmimeTypeStoppedEventStackTraceArgumentsStackTraceResponseBody	getThreadtopFrame
+startFramelevelsisInvalidThreadIdstackFramestotalFramespaused
+StackFrameconvertVmToDapStackFrame
+isTopFramegetStacklimitasyncCausalFramesframes	truncated
+indexWhereframe	FrameKindkAsyncSuspensionMarkerlocationscriptresolveUrisToPathsBatchfirstAsyncMarkerIndexsublist
+mapIndexedStepInArgumentskIntoStepOutArgumentskOutTerminateArgumentsThreadsResponseBodyThreadVariablesArgumentsVariablesResponseBodycountvarsBoundVariableconvertVmResponseToVariableevaluateNamesortByvFieldRefconvertFieldRefToVariableInspectDatainstanceWrappedInstanceVariable	getObjectObjRef
+instanceIdoffsetSentinelExceptionsentinelMapAssociationInstance convertVmInstanceToVariablesList	startItemnumItemsVariableGettercreateVariableForGettervariableName
+getterNameparentEvaluateName	variableslibraryLibrary
+isNotEmptylasttakecategorysparseDartStackFramef!resolveUrisToPackageLibPathsBatch
+isUserCodeisResolvableUriresolveUriToPathallowAnsiColorOutputiconvertToRelativePathisEmptySourcelinecolumn	substring	protectedmustCallSuper
+kPauseExitkServiceExtensionAdded_sendServiceExtensionAddedextensionRPCInstanceKindkNull	logRecordthreadForIsolate
+loggerName
+stackTracekServiceRegistered_sendServiceRegistrationservicekServiceUnregistered_sendServiceUnregistration
+IsolateReftoUpperCaseextensionData	fieldNameextensionKindisCompleted	Directorycurrentdebugbytesutf8decodebase64DecodecontainsKeyapplyDebugOptions	WebSocketconnectStreamControllerloggerstreamlogVmServiceLoggerdisposeHandlerclosestreamClosedRPCErrorcodeRpcErrorCodeskServiceDisappearedSERVER_ERRORsupportsDartUrisOutputEvent&DartCommonLaunchAttachRequestArgumentsAttachRequestArgumentsRequestArgumentsBaseDebugAdapter	FileUtilsLaunchRequestArguments|'7Í¶"xz2óò€bî    €Ú  
+dart:async  €ï  dart:convert    dart:io    "package:collection/collection.dart  F  package:dap/dap.dart  e  :package:dds_service_extensions/dds_service_extensions.dart  ª  Õjson_rpc_errorsØ"package:json_rpc_2/error_code.dart  ê  package:meta/meta.dart  ‚  ‚*path‚-package:path/path.dart  ‚4  ‚_vm‚b"package:vm_service/vm_service.dart  ‚h  ../../../dds.dart  ‚„  ../../rpc_error_codes.dart  ‚©  ../base_debug_adapter.dart  ‚Î  ../isolate_manager.dart  ‚ğ  ../logging.dart  ƒ
+  ../progress_reporter.dart  ƒ.  ../protocol_converter.dart  ƒS  ../protocol_stream.dart  ƒu  ../utils.dart  ƒ  ../variables.dart  ƒ©  mixins.dart    	dart:coreÀ Æ¢ À½7‹í N€œ€Ø€Ù€îEd©é‚
+‚3‚f‚g‚ƒ‚¨‚Í‚ïƒ	ƒ-ƒRƒtƒŒƒ¨ƒ¾ƒ¿ƒş„„R„˜„œ„ç………X…v…z…Æ††-†.†x†|†Æ‡‡e‡œ‡ ‡ëˆ8ˆGˆˆ€ˆ¶ˆøˆù‰G‰K‰—‰åŠŠ7Š8Š‡Š¿ŠÀ‹‹U‹V‹|‹­‹®‹şŒ+Œ/Œ}ŒÄŒÕŒÙ$/§ÎÔ-.~„ºİŞ'S®Åáô5R{Åí‘	‘4‘T‘b‘¶‘Ë‘Ö‘×’’F’’¨’©’µ’Ú’õ“5“„“““Ø””	”
+”A”†”Î••C•…•†•À––<–U–V–l––‚–¿–á–â——$—t—¾˜˜(˜V˜W˜“˜™˜ç˜ø™™™d™j™µ™İ™Şš'š-šwšÃ››/›\›]›¨›´›Û›Üœ)œ?œEœ•œÎœÔ$t¸¹$uÆŸŸEŸqŸrŸÄ  a  ® ¯ ı¡(¡.¡|¡È¡Ú¡ş¡ÿ¢*¢E¢]¢t¢‹¢µ¢Ú££X£i£‹£Ø£é¤¤7¤g¤‹¤¶¤¼¤½¥¥=¥l¥™¥Ø¥ù¦B¦‰¦±¦ô§§S§y§º§á¨#¨h¨‹¨É©©©<©m©•©º©ßªªGª–ªÉ««@«~«¯«õ¬'¬o¬»¬é­)­S­‹­”­–­—­è®®®i®´®¸¯¯X¯©¯¹¯½°°U°¢°ó±±±K±š±±®±²±ş²L²˜²×³³?³³¶³º´
+´Y´§´÷µDµ‡µÓµè¶"¶]¶–¶—¶æ·%·Q·R·œ·Á·Â·í·ó¸A¸\¸—¸˜¸È¸Î¹¹4¹O¹P¹œ¹½¹¾ººCºIº–ºÃºõºö»D»J»›»Æ»æ»ç¼0¼L¼R¼’¼Å¼Æ¼û½½½F½^½_½¤½Â½Ã½÷¾¾¾^¾¯¾Ä¾İ¾Ş¿¿¿e¿®¿ûÀ @IÀ @™À @éÀ @ïÀ A9À AˆÀ AÇÀ BÀ BÀ BUÀ BeÀ BkÀ B¼À CÀ C/À C=À CiÀ C«À CĞÀ CçÀ CèÀ D0À D6À DÀ DĞÀ DëÀ EÀ EÀ ETÀ EUÀ E‚À EˆÀ EÙÀ F"À F5À F;À F{À FËÀ FéÀ GÀ GÀ GSÀ GƒÀ G‰À GÚÀ GğÀ HÀ HÀ H[À H‰À HÀ HØÀ IÀ ICÀ IDÀ I‘À I¾À IÄÀ JÀ JKÀ JvÀ JwÀ JÇÀ JÍÀ KÀ KdÀ KzÀ K–À K—À KåÀ KëÀ L:À L‚À LÀÀ LÁÀ MÀ MÀ MOÀ MPÀ M˜À M¨À M®À MıÀ NLÀ NnÀ N À NÈÀ OÀ OÀ OKÀ OÀ O‹À OÔÀ OüÀ PÀ PÀ P	À PÀ PDÀ P[À PvÀ P—À P¨À P¿À PéÀ QÀ QÀ QFÀ Q|À QÌÀ QÍÀ QøÀ R"À R&À R'À RuÀ RÄÀ SÀ S8À SˆÀ S‰À S´À SæÀ SçÀ T,À THÀ TNÀ TÀ T×À TØÀ UÀ UÀ UpÀ U½À VÀ V>À VjÀ VkÀ V¼À VÑÀ V×À W'À WvÀ WÄÀ WıÀ XÀ XNÀ X–À X©À XÏÀ XĞÀ YÀ YÀ YmÀ Y­À Y³À ZÀ Z0À ZYÀ ZZÀ ZÀ ZÛÀ ZáÀ [-À [DÀ [aÀ [bÀ [®À [üÀ \!À \-À \KÀ \`À \mÀ \À \›À \ÛÀ \ğÀ ]À ]À ],À ]WÀ ]XÀ ]“À ]«À ]¬À ]ÀÀ ]ÄÀ ]ÅÀ ^À ^À ^dÀ ^|À ^™À ^®À ^ØÀ ^ßÀ ^şÀ _<À _xÀ _|À _}À _·À _½À _íÀ `,À `aÀ `eÀ `fÀ `³À `üÀ aÀ aÀ adÀ a²À aşÀ b
+À b3À bHÀ bnÀ bÀ bœÀ bÈÀ bÜÀ bàÀ báÀ c&À c,À cyÀ cÄÀ dÀ d+À d1À d€À dÎÀ dêÀ dğÀ e5À e}À eµÀ eåÀ eïÀ fÀ f3À f}À f™À f¶À fØÀ fêÀ fğÀ fôÀ fõÀ gCÀ gIÀ g˜À gÁÀ gÇÀ hÀ hdÀ h‰À hÀ hÒÀ iÀ iÀ iDÀ iVÀ ioÀ iŒÀ iÂÀ ißÀ j)À joÀ j¦À jÓÀ jâÀ k)À ktÀ kšÀ kÆÀ lÀ l=À lRÀ lZÀ l`À ldÀ leÀ lªÀ l°À lşÀ mÀ mDÀ mYÀ m‡À m¿À môÀ nÀ naÀ n¢À nÁÀ nÑÀ nÙÀ nğÀ nıÀ o'À o-À o.À obÀ oÀ oßÀ pÀ pJÀ pKÀ pjÀ p²À pçÀ q1À qPÀ q{À q¢À qÉÀ qÒÀ qØÀ r"À r#À rKÀ rfÀ rgÀ r‡À rˆÀ rÏÀ rĞÀ sÀ saÀ s‘À s­À sîÀ t+À tlÀ t±À tòÀ uÀ u_À u‰À uËÀ vÀ vÀ vÀ v6À vnÀ v¤À vÜÀ wÀ wNÀ wšÀ wÄÀ wıÀ x6À x?À xGÀ xHÀ xtÀ xÂÀ xÃÀ yÀ y1À y2À ybÀ y€À y»À yÂÀ yÃÀ yñÀ yõÀ yöÀ zAÀ zÀ z¯À zµÀ {À {TÀ {À {éÀ {ûÀ |&À |^À |À |¨À |ÂÀ |âÀ |òÀ |öÀ |÷À }HÀ }‡À }¦À }ÎÀ }àÀ ~À ~	À ~À ~À ~]À ~‡À ~¨À ~¹À ~½À ~¾À ~áÀ 0À ~À À ŸÀ ´À ÜÀ æÀ €À €À €À €À €^À €dÀ €²À €õÀ €ûÀ KÀ ^À dÀ yÀ À ÈÀ øÀ ‚)À ‚8À ‚LÀ ‚aÀ ‚hÀ ‚±À ‚µÀ ‚¶À ‚àÀ ‚üÀ ƒÀ ƒWÀ ƒ§À ƒßÀ ƒóÀ „1À „mÀ „·À „ÙÀ „ıÀ …!À …rÀ …²À …³À …ßÀ †À †CÀ †OÀ †€À †±À †½À †ÎÀ ‡À ‡&À ‡.À ‡4À ‡5À ‡?À ‡ŒÀ ‡¸À ‡éÀ ˆÀ ˆ À ˆ)À ˆ*À ˆ|À ˆ›À ˆĞÀ ‰À ‰8À ‰AÀ ‰SÀ ‰£À ‰ĞÀ ŠÀ ŠÀ ŠÀ ŠÀ Š8À ŠVÀ ŠtÀ Š—À Š¤À Š®À ŠæÀ ŠøÀ ‹HÀ ‹NÀ ‹RÀ ‹SÀ ‹À ‹¾À ‹éÀ ŒÀ ŒÀ Œ#À ŒTÀ ŒÀ Œ½À ŒíÀ À +À EÀ ‚À ĞÀ òÀ )À SÀ {À ÀÀ ÁÀ 	À XÀ ¨À ÷À À RÀ |À ›À ¦À ÓÀ ‘À ‘À ‘ À ‘$À ‘%À ‘oÀ ‘†À ‘’À ‘²À ‘ÇÀ ‘ãÀ ’À ’%À ’[À ’ŸÀ ’£À ’¤À ’óÀ “À “À “ZÀ “§À “¶À “¼À ”À ”[À ”aÀ ”°À ”ÎÀ ”ÚÀ ”øÀ •À •,À •UÀ •aÀ •€À •ĞÀ –À –2À –WÀ –›À –ÆÀ –ÕÀ –ÖÀ —À —TÀ —uÀ —‘À —ÁÀ —ËÀ —ìÀ —ûÀ —üÀ ˜KÀ ˜ƒÀ ˜°À ˜ÊÀ ™À ™ À ™GÀ ™À ™šÀ ™¤À ™êÀ š*À š<À šTÀ š_À š…À š”À š•À šäÀ ›0À ›{À › À ›¸À ›æÀ œÀ œÀ œÀ œ`À œ¬À œøÀ (À GÀ “À âÀ -À yÀ ¶À øÀ ŸÀ Ÿ[À Ÿ‡À Ÿ¨À Ÿ·À Ÿ¸À ŸÇÀ  À  À  À  À  _À  {À  «À  ¬À  îÀ ¡+À ¡LÀ ¡MÀ ¡ À ¡ñÀ ¢À ¢À ¢lÀ ¢¸À ¢ŞÀ ¢äÀ £8À £DÀ £fÀ £{À £šÀ £¼À £ÈÀ £âÀ £ãÀ £ÿÀ ¤À ¤0À ¤1À ¤GÀ ¤KÀ ¤LÀ ¤›À ¤¡À ¤ñÀ ¥AÀ ¥‘À ¥—À ¥İÀ ¥éÀ ¦	À ¦À ¦:À ¦pÀ ¦|À ¦À ¦ŸÀ ¦ìÀ §0À §HÀ §]À §xÀ §²À §ÌÀ §êÀ ¨À ¨&À ¨,À ¨-À ¨yÀ ¨°À ¨ÒÀ ©À ©2À ©XÀ ©xÀ ©ˆÀ ©‰À ©ÖÀ ª&À ª[À ª\À ª¬À ªöÀ «AÀ «}À «ÇÀ «ÈÀ «öÀ ¬5À ¬6À ¬‡À ¬ªÀ ¬ğÀ ­/À ­5À ­6À ­rÀ ­©À ­¿À ­ÑÀ ®!À ®qÀ ®ŠÀ ®ÂÀ ®ÉÀ ®ûÀ ¯%À ¯rÀ ¯ŒÀ ¯ÄÀ ¯ÅÀ ¯åÀ °À °;À °bÀ °hÀ °iÀ °¤À °õÀ ±CÀ ±”À ±ÛÀ ²À ²RÀ ²À ²‘À ²ªÀ ²´À ²ĞÀ ²øÀ ³À ³PÀ ³nÀ ³„À ³–À ³¡À ³ÚÀ ´À ´+À ´AÀ ´WÀ ´{À ´†À ´¶À µÀ µ@À µƒÀ µŸÀ µïÀ ¶À ¶PÀ ¶—À ¶¡À ¶¢À ¶ÎÀ ¶ìÀ ·À ·À ·=À ·HÀ ·PÀ ·bÀ ·À ·‚À ·ÉÀ ·ùÀ ¸À ¸BÀ ¸ĞÀ ¸äÀ ¸öÀ ¸ÿÀ ¹NÀ ¹sÀ ¹ÃÀ ¹ËÀ ¹ÌÀ ¹ûÀ ºÀ ºÀ º#À ºgÀ ºÀ ºÙÀ »À »gÀ »wÀ »‡À »¥À »îÀ ¼À ¼AÀ ¼JÀ ¼KÀ ¼‘À ¼ŸÀ ¼ÛÀ ¼ÜÀ ½%À ½]À ½ŠÀ ½‹À ½´À ½ÒÀ ¾À ¾À ¾À ¾<À ¾€À ¾‰À ¾À ¾“À ¾”À ¾áÀ ¾çÀ ¿1À ¿kÀ ¿¬À ¿ÔÀ ¿÷À ¿ûÀ ¿üÀ ÀHÀ ÀNÀ À˜À ÀÕÀ ÁÀ Á>À ÁaÀ ÁeÀ ÁfÀ Á°À ÁÀÀ ÁæÀ ÁşÀ Â$À Â(À Â)À ÂkÀ ÂqÀ Â²À ÂòÀ ÃÀ ÃÀ Ã?À ÃMÀ ÃSÀ ÃTÀ ÃnÀ Ã’À Ã“À ÃâÀ ÃòÀ Ä*À ÄZÀ Ä€À Ä„À Ä…À ÄÈÀ ÅÀ Å3À Å9À ÅpÀ ÅÁÀ ÅóÀ ÅÿÀ Æ!À Æ6À Æ_À ÆÀ Æ™À ÆĞÀ ÆìÀ ÆíÀ Ç<À Ç[À ÇÀ Ç£À Ç¼À ÇßÀ ÇşÀ È	À È-À ÈLÀ ÈtÀ È’À ÈÀ È¦À ÈÌÀ ÈøÀ É&À ÉTÀ É{À É§À ÉÆÀ ÉüÀ ÊÀ ÊDÀ ÊLÀ ÊMÀ ÊÀ Ê¦À ÊªÀ Ê«À ÊêÀ ÊğÀ Ë>À Ë^À ËdÀ Ë«À ËüÀ ÌIÀ ÌoÀ Ì»À ÌßÀ ÌóÀ ÌùÀ ÌúÀ ÍGÀ ÍmÀ ÍÀ Í‡À ÍˆÀ Í¹À Í½À Í¾À ÎÀ Î[À ÎÀ ÎÆÀ ÎóÀ ÏÀ ÏÀ ÏÀ Ï^À Ï«À ÏüÀ ĞAÀ ĞBÀ ĞÀ ĞİÀ Ñ,À Ñ^À Ñ‰À ÑŠÀ Ñ¢À ÑÛÀ Ò"À Ò&À Ò'À ÒZÀ ÒÀ Ò‘À ÒÓÀ ÓÀ ÓÀ ÓjÀ ÓÀ ÓÀ ÓŸÀ ÓïÀ Ô=À ÔdÀ ÔpÀ ÔÀ Ô£À Ô°À ÔÒÀ ÔŞÀ ÕÀ Õ4À Õ5À ÕJÀ Õ}À Õ~À Õ¶À ÕàÀ ÕäÀ ÕåÀ Ö4À ÖUÀ Ö›À Ö³À ÖÇÀ ÖËÀ ÖÌÀ ×À ×À ×dÀ ×–À ×İÀ ×úÀ Ø)À ØiÀ Ø À Ø´À ØÁÀ ØÔÀ ØÚÀ ØŞÀ ØßÀ Ù(À Ù?À ÙKÀ ÙgÀ Ù|À Ù”À Ù¶À ÙÂÀ ÚÀ Ú!À Ú%À Ú&À ÚsÀ ÚÀ ÚœÀ Ú±À ÚÊÀ ÚìÀ ÚøÀ Û-À ÛAÀ ÛEÀ ÛFÀ ÛˆÀ ÛÀ ÛªÀ ÛÎÀ ÛãÀ ÜÀ Ü%À Ü1À ÜnÀ Ü†À Ü°À Ü¾À ÜÄÀ ÜÅÀ ÜåÀ İÀ İAÀ İ_À İmÀ İsÀ İtÀ İÄÀ İØÀ İÜÀ İİÀ Ş(À Ş]À ŞcÀ Ş´À ŞüÀ ßÀ ß'À ß<À ßXÀ ßzÀ ß†À ß§À ßİÀ à	À àÀ àÀ àÀ àcÀ à“À àŸÀ à½À àÒÀ àìÀ á À á,À áoÀ á–À á¹À áïÀ âÀ âÀ â=À âUÀ âmÀ â‘À â¿À âÿÀ ã
+À ã$À ã.À ã/À ãGÀ ã`À ã…À ã³À ãôÀ ãÿÀ äÀ ä#À ä$À äsÀ ä’À äÎÀ äöÀ åÀ å.À å`À å|À åˆÀ åÀ å–À å—À åÍÀ åÑÀ åÒÀ æÀ æÀ æhÀ æ´À ç À ç@À çlÀ ç¢À ç¦À ç§À çñÀ è:À è@À èŠÀ èØÀ é%À é;À éNÀ écÀ éyÀ é–À é§À éñÀ êÀ êÀ êkÀ ê—À êÀÀ êşÀ ë'À ë(À ë2À ëgÀ ëyÀ ëŠÀ ëºÀ ëÃÀ ëÄÀ ìÀ ìGÀ ìbÀ ì‰À ì™À ìµÀ ì»À ì¿À ìÀÀ íÀ í8À í>À íÀ íÀ íéÀ îÀ î3À îtÀ î«À î¯À î°À îìÀ îòÀ ïCÀ ï’À ï¼À ïÂÀ ğÀ ğTÀ ğZÀ ğªÀ ğ÷À ñ#À ñ/À ñUÀ ñjÀ ñŒÀ ñÈÀ ñÔÀ òÀ òÀ ò(À òKÀ òhÀ ò¥À ò¶À ò·À óÀ óPÀ óyÀ ózÀ ó¤À óáÀ óôÀ ô5À ô6À ôcÀ ôˆÀ ôÚÀ õ!À õiÀ õ¨À õ½À õÅÀ õßÀ õãÀ õäÀ ö*À ö0À öÀ öœÀ ö¢À öïÀ ÷8À ÷>À ÷À ÷ÙÀ øÀ øÀ ø@À øUÀ ø€À øÅÀ øÑÀ øÿÀ ùÀ ù<À ùVÀ ùlÀ ùmÀ ù£À ù¤À ùİÀ ùáÀ ùâÀ úÀ ú"À úrÀ úÁÀ úÏÀ úÕÀ ûÀ û À ûIÀ ûeÀ ûvÀ ûzÀ û{À ûÈÀ ûãÀ ûïÀ ûıÀ üÀ ü<À üeÀ üƒÀ ü„À üÓÀ üúÀ ıÀ ıOÀ ıšÀ ıßÀ ı÷À ıøÀ şÀ ş/À şMÀ şTÀ şXÀ şYÀ ş¯À şèÀ ÿÀ ÿMÀ ÿTÀ ÿ”À ÿÒÀ ÿÙÀ (À wÀ ‡À ÃÀ æÀ
+ÀWÀpÀ‰ÀÀàÀîÀùÀÀÀÀÀÀÀgÀ¨ÀŞÀ%ÀMÀ“À—À˜ÀàÀ!ÀPÀ’À¼ÀßÀòÀøÀ"À#À_À‚À¦ÀÕÀÀ+ÀLÀ`À«À¶À¾ÀÄÀÅÀÖÀÚÀÛÀ,À:À@ÀÀàÀæÀ3À‚ÀÀ¬ÀÁÀÛÀ	À	À	PÀ	ŒÀ	“À	±À	ğÀ	öÀ
+À
+>À
+xÀ
+•À
+ØÀ
+ŞÀ
+ßÀÀ=À]ÀšÀ À¡À³ÀüÀÀÀÀXÀ^À¨ÀóÀÀÀjÀ»ÀÀUÀyÀ…À§À¼ÀÚÀÀÀoÀ¼ÀÀ.À5À‚ÀÁÀåÀæÀ
+ÀAÀtÀ¡ÀÉÀâÀãÀıÀ5À|À‹À×À(ÀsÀˆÀµÀĞÀêÀöÀÀÀÀÀ/ÀtÀzÀ{À£ÀñÀ ÀaÀÀÓÀãÀõÀÀÀ<ÀIÀ|ÀÊÀÀSÀTÀ¡À½ÀÀRÀ’À“ÀÀÀÀ]À§À²À À?ÀJÀ™ÀéÀÀLÀiÀjÀ¸ÀÀSÀoÀ§ÀïÀúÀHÀ|À§ÀÏÀÙÀÚÀ&ÀNÀmÀ¦À¼ÀØÀïÀ&À'ÀmÀ£À·ÀÊÀ À ;À HÀ RÀ SÀ ‹À ÛÀ ãÀ éÀ êÀ üÀ!À!<À!^À!gÀ!nÀ!rÀ!sÀ!ÂÀ!ÎÀ!ìÀ"À"À"=À"IÀ"”À"¨À"¬À"­À"ıÀ#	À#(À#=À#XÀ#zÀ#†À#ĞÀ#äÀ#èÀ#éÀ$4À$IÀ$–À$¶À$ıÀ%À%À%À%JÀ%‰À%©À%ªÀ%úÀ&À&À&bÀ&®À&ÔÀ&ÚÀ'.À':À'[À'pÀ'À'°À'¼À'ÖÀ'×À'òÀ(À(#À($À(:À(>À(?À(€À(†À(ĞÀ)À)<À)HÀ)gÀ)|À)‹À)ÀÀ)ÌÀ)âÀ*À*%À*DÀ*€À*ŠÀ*‘À*ÊÀ*ÎÀ*ÏÀ+À+KÀ+QÀ+À+îÀ,À,À,aÀ,¨À,ùÀ-EÀ-UÀ-aÀ-‚À-—À-´À-ëÀ-÷À.À.9À.\À.ªÀ.ÈÀ/	À/À/5À/UÀ/VÀ/rÀ/­À/ÍÀ/éÀ0À0À0À09À0xÀ0yÀ0À0À0êÀ1À1(À1qÀ1¾À1úÀ2"À2KÀ2€À2ŒÀ2ÅÀ2ÙÀ2õÀ3À3XÀ3‹À3´À3ĞÀ3İÀ3çÀ3èÀ4/À40À4WÀ4€À4ˆÀ4±À4äÀ5À5\À5‘À5£À5·À5×À6(À6BÀ6MÀ6UÀ6VÀ6˜À6àÀ7À7-À7zÀ7ÈÀ7áÀ8À8%À8BÀ8‡À8ÖÀ8àÀ9À9bÀ9²À9ÑÀ9İÀ:À:;À:eÀ:ƒÀ: À:«À:şÀ;MÀ; À;ñÀ<@À<‡À<ÎÀ<àÀ<ôÀ=À=+À=iÀ=tÀ=•À=ÁÀ=áÀ=úÀ>5À>VÀ>bÀ>jÀ>–À>²À>ÒÀ?À?bÀ?®À?ÉÀ?İÀ?öÀ@?À@UÀ@hÀ@ªÀ@ÈÀ@×ÀAÀA-ÀAlÀAyÀAÀAªÀAõÀBÀB$ÀBhÀBˆÀB™ÀBßÀBõÀC8ÀCTÀCÀC©ÀC±ÀCÕÀCáÀDÀD=ÀDMÀDkÀDˆÀD“ÀD”ÀD¹ÀDÛÀDıÀE6ÀEYÀEgÀE“ÀEáÀEõÀF	ÀFXÀF˜ÀF»ÀFİÀFùÀGÀGÀG:ÀG\ÀGÀG±ÀG¿ÀGÉÀGõÀHÀH5ÀHpÀH‘ÀHÀH¥ÀHáÀI"ÀI3ÀICÀIZÀIªÀIËÀIåÀJ
+ÀJ9ÀJrÀJŠÀJ“ÀJ²ÀJ¸ÀJ¹ÀJøÀJüÀJıÀK5ÀKcÀKzÀKÀKšÀKÈÀKåÀKöÀKüÀKıÀL3ÀLZÀLxÀL‰ÀLÀLÀLÈÀLêÀLûÀMÀMÀM&ÀM*ÀM+ÀMpÀM©ÀMÍÀNÀNLÀNMÀNtÀN¬ÀN÷ÀNıÀNşÀOÀOÀOÀO\ÀO…ÀO‹ÀOºÀOãÀP.ÀPXÀP›ÀPÓÀPÔÀQÀQ'ÀQ-ÀQ.ÀQhÀQ’ÀQ¹ÀQ½ÀQ¾ÀRÀRÀRUÀR•ÀRÉÀRŞÀRôÀSÀSÀSDÀSSÀSlÀSŠÀS¥ÀS×ÀSáÀSêÀS÷ÀTÀTSÀTjÀT»ÀU
+ÀUPÀUÀUÔÀUÜÀUâÀUæÀUçÀV6ÀV<ÀVŒÀV¼ÀWÀW3ÀW[ÀW\ÀW«ÀWÒÀXÀXKÀXLÀX˜ÀXéÀY7ÀYpÀY§ÀY¨ÀYöÀZ1ÀZ^ÀZjÀZŒÀZÇÀZ÷À[IÀ[—À[ÑÀ[İÀ[ôÀ\EÀ\”À\çÀ]7À]‰À]¢À]ÚÀ]âÀ]èÀ]éÀ^3À^À^À^ÍÀ^ëÀ_À_7À_tÀ_|À_¼À_ÈÀ`À`+À`vÀ`ŠÀ`¡À`ÜÀaÀaÀa/Àa8Àa9Àa|Àa©ÀaÆÀaåÀbÀb$Àb%ÀbcÀbŒÀbÀbÜÀc%Àc_Àc`Àc±ÀdÀd7ÀdYÀdœÀd¼ÀdÎÀdÏÀeÀe>ÀeWÀe£Àe¼Àf
+ÀfÀfXÀfŠÀfÃÀfÿÀg ÀgOÀg™Àg´ÀgĞÀgâÀgêÀgëÀhÀhKÀh]ÀhvÀh”Àh®ÀhÀÀiÀi-ÀiNÀiYÀibÀihÀiiÀi|Ài€ÀiÀiÄÀjÀj'Àj\ÀjxÀjÀj¦Àj²ÀjÿÀkÀkÀk9ÀkLÀkRÀkSÀk†ÀkÀk¤Àk¥ÀkìÀkşÀl/ÀlsÀltÀl”Àl®ÀlÃÀlïÀmÀmÀmÀmÀm(Àm9ÀmqÀmºÀnÀnNÀnmÀnnÀn›ÀnœÀn¾ÀnáÀo*ÀosÀo©ÀoìÀpÀpQÀpWÀp[Àp\ÀpiÀpzÀp¶ÀpÕÀpÖÀq#ÀqPÀqTÀqUÀqbÀqsÀq­ÀqöÀrDÀrŠÀr©ÀrªÀrêÀsÀsÀs2ÀsÀs©ÀsÙÀtÀt!Àt?ÀtJÀtYÀt_ÀtcÀtdÀt®ÀtşÀuÀukÀu§ÀuºÀuÀÀuÖÀvÀvÀvÀvhÀv³ÀvÅÀvçÀw	Àw2Àw8Àw€ÀwÆÀxÀxFÀx^ÀxnÀxŠÀx¦Àx»ÀxÄÀxËÀxÏÀxĞÀyÀy'Ày8ÀyrÀy–ÀyÙÀzÀzÀzÀzÀz_Àz†Àz Àz¦ÀzçÀ{$À{fÀ{gÀ{ŒÀ{À{¨À{ãÀ{éÀ|À|;À|AÀ|ZÀ|“À|™À|À|À|«À|¼À|öÀ}À}À}0À}{À}§À}ÓÀ~À~(À~VÀ~À~­À~³À~·À~¸À	ÀNÀTÀŸÀ¾ÀãÀÿÀ€À€0À€<À€yÀ€“À€¡À€§À€¨À€ËÀ€ëÀ€ùÀ€ÿÀ(À?ÀMÀSÀTÀˆÀ®À¼ÀÂÀÃÀÿÀ‚À‚0À‚NÀ‚tÀ‚”À‚åÀƒÀƒ#Àƒ'Àƒ(Àƒ5ÀƒFÀƒ}ÀƒœÀƒÀƒìÀ„À„?À„gÀ„—À„ÆÀ…
+À…À…À…À…(À…=À…bÀ…xÀ…‚À…¥À…¬À…°À…±À…İÀ†
+À†À†À†;À†hÀ†lÀ†mÀ†À†·À†ÜÀ†üÀ‡À‡À‡À‡,À‡GÀ‡cÀ‡¯À‡µÀ‡¹À‡ºÀ‡ÿÀˆÀˆVÀˆŒÀˆÀÀ‰ À‰0À‰6À‰7À‰…À‰ĞÀŠÀŠ-ÀŠDÀŠnÀŠtÀŠuÀŠÃÀŠüÀ‹#À‹EÀ‹ŒÀ‹¿À‹óÀ‹÷À‹øÀŒ.ÀŒ4ÀŒ…ÀŒÂÀŒàÀŒøÀÀÀAÀdÀhÀiÀ´ÀÃÀÀ>ÀEÀIÀJÀ‹ÀšÀÖÀÀÀÀÀPÀ_À›ÀÈÀÏÀÓÀÔÀÀÀ`À•ÀÛÀ‘À‘XÀ‘^À‘›À‘ĞÀ’	À’À’=À’AÀ’BÀ’À’ÃÀ“À“8À“cÀ“’À“²À“³À“ÆÀ“ÕÀ“üÀ”À”#À”YÀ”`À”aÀ”zÀ”“À”¬À”×À•À•À•'À•cÀ•À•ÁÀ•ÈÀ•ÌÀ•ÍÀ–À–CÀ–IÀ–—À–áÀ—*À—:À—uÀ—™À—ŸÀ—İÀ—áÀ—âÀ˜-À˜3À˜€À˜«À˜àÀ™$À™QÀ™wÀ™€À™¤À™»À™èÀ™ìÀ™íÀš>ÀšcÀšiÀš·À›À›>À›ˆÀ›’À›­À›ÎÀœÀœ_Àœ®ÀœûÀIÀcÀœÀ±À¹ÀºÀÀVÀ¡ÀñÀŸ&ÀŸZÀŸÀŸ¬ÀŸÃÀŸÍÀŸÎÀ À hÀ §À áÀ¡-À¡DÀ¡NÀ¡VÀ¡WÀ¡¦À¡µÀ¡»À¡¿À¡ÀÀ¢À¢bÀ¢®À¢¯À¢şÀ£À£À£`À£˜À£ÀÀ£ãÀ¤!À¤BÀ¤À¤ƒÀ¤„À¤ÅÀ¤ËÀ¥À¥kÀ¥‡À¥¯À¥ÆÀ¥ÙÀ¥ıÀ¦À¦AÀ¦`À¦mÀ¦€À¦†À¦ŠÀ¦‹À¦ÒÀ§
+À§;À§qÀ§œÀ§¢À§²À§¶À§¸À§¹À¨	À¨6À¨:À¨ˆÀ¨ÏÀ¨àÀ¨äÀ©/À©:À©ŠÀ©²À©ûÀª'ÀªbÀªcÀª±ÀªËÀª×ÀªîÀªïÀ«À«0À«1À«\À«xÀ«yÀ«ÈÀ«çÀ¬À¬À¬VÀ¬\À¬¨À¬ÏÀ¬ÕÀ­À­=À­eÀ­fÀ­‚À­ƒÀ­®À­´À®À®PÀ®‹À®ªÀ®°À®üÀ¯FÀ¯—À¯°À¯±À¯âÀ¯èÀ°4À°‚À°ÅÀ°ËÀ±À±-À±IÀ±JÀ±šÀ±¼À±ÂÀ±ıÀ²?À²À²³À²´À²ÓÀ²åÀ³ À³À³'À³:À³UÀ³gÀ³|À³À³°À³ÀÀ³ÏÀ³ŞÀ´ À´À´FÀ´iÀ´À´¸À´ÔÀ´ÿÀµÀµ%Àµ&ÀµVÀµ‰Àµ½Àµ÷À¶9À¶TÀ¶—À¶ÕÀ·
+À·EÀ·•À·®À·¯À·»À·àÀ·ûÀ¸,À¸HÀ¸pÀ¸¤À¸ğÀ¹3À¹dÀ¹À¹ÊÀºÀºÀºÀºZÀº‰Àº‹ÀºŒÀºÖÀºèÀ»À»À»'À»(À»eÀ»fÀ»¬À»­À»ûÀ¼À¼RÀ¼SÀ¼‰À¼§À¼ºÀ¼÷À½
+À½À½+À½1À½5À½7    €Ù  €î      E  d  ©Ù é  ‚
+‚. ‚3‚c ‚g  ‚ƒ  ‚¨  ‚Í  ‚ï  ƒ	  ƒ-  ƒR  ƒt  ƒŒ  ƒ¨    ‹®ˆZ5€/// An implementation of [AttachRequestArguments] that includes all fields used
+/// by the Dart CLI and test debug adapters.
+///
+/// This class represents the data passed from the client editor to the debug
+/// adapter in attachRequest, which is a request to start debugging an
+/// application.
+///
+/// Specialized adapters (such as Flutter) have their own versions of this
+/// class. ‘‚D ‘« ²¸  ÉÏ  åì  ø
+ÿ  	    9@  V#]  †  ¢!©  É"Ğ  ñø  ‘%‘  ‘8‘?  ‘.‘[‘`‘Ó‘Ã‘À‘Å‘Ù€Î‘ó‘ô‘û ‘ü	’  ’’’’!’"’&’.’'’-’/’C’0’5’`’N’b’e’f’j’r’k’q’s’Œ’t’y’—’œ’’¤’¥©€‚a/// The VM Service URI to attach to.
+///
+/// Either this or [vmServiceInfoFile] must be supplied. 0€«Ê€…/// The VM Service info file to extract the VM Service URI from to attach to.
+///
+/// Either this or [vmServiceUri] must be supplied. à€¬bp/// A reader for protocol arguments that throws detailed exceptions if
+/// arguments aren't of the correct type.h‚‹ƒ ’«€á’Ì   ’«’¬“v“²  “»“Ñ    ”
+™‹”Œ{/// A common base for [DartLaunchRequestArguments] and
+/// [DartAttachRequestArguments] for fields that are common to both. ¢‚º ¢¢' ¢.¢=  ¢I¢X  ¢a¢p  ¢x¢‡  ¢$¢  ¢¹¢È  ¢Ş+¢í  £m£s  £í£ó  ¤)¤  ¤;*¤J  ¤k¤z  ¤%¤•  ¤¯¤¿„V¤å¤æ¤í ¤î¥  €¨¥¥¥¥¥¥"¥*¥#¥)¥+¥:¥,¥1¥J¥E¥L¥O¥P¥T¥\¥U¥[¥]¥i¥^¥c¥x¥t¥z¥}¥~¥‚¥Š¥ƒ¥‰¥‹¥–¥Œ¥‘¥¥¥¡¥§¥ª¥«¥º¥É¥»¥Ã¥Ê¥Õ¥Ë¥Ğ¥÷¥à¦¦¦	¦¦ ¦¦!¦?¦"¦'¦\¦J¦^¦a¦b¦f¦l¦g¦k¦m¦†¦n¦s¦¯¦‘¦½¦À¦Á¦Å¦Ë¦Æ¦Ê¦Ì¦ñ¦Í¦Ò§¦ü§"§%§&§*§0§+§/§1§P§2§7§w§[§…§ˆ§‰§§“§§’§”§·§•§š§ß§Â§í§ğ§ñ§õ§û§ö§ú§ü¨ §ı¨¨<¨+¨>¨A¨B¨F¨L¨G¨K¨M¨e¨N¨S¨‰¨p¨—¨š¨›¨Ÿ¨¥¨ ¨¤¨¦¨Æ¨§¨¬¨æ¨Ñ¨è¨ë¨ì¨ğ¨ö¨ñ¨õ¨÷©¨ø¨ı”Ğ€³•Rp/// A reader for protocol arguments that throws detailed exceptions if
+/// arguments aren't of the correct type.•X•r•‚•s•ˆ€Ë–L€¯/// Optional data from the previous, restarted session.
+/// The data is sent as the 'restart' attribute of the 'terminated' event.
+/// The client should leave the data intact. –X–f  –n–|  –„[–Ü:/// Environment variables to pass to the launched process. –äp˜>9/// Paths that should be considered the users local code.
+///
+/// These paths will generally be all of the open folders in the users editor
+/// and are used to determine whether a library is "external" or not to
+/// support debugging "just my code" where SDK/Pub package code will be marked
+/// as not-debuggable. ˜Y€¾™€˜/// Whether SDK libraries should be marked as debuggable.
+///
+/// Treated as `true` if null. If `false`, "step in" will not step into SDK
+/// libraries. ™€¿™Ã€”/// Whether to send custom progress events for long-running operations.
+///
+/// If `false` or `null`, will send standard DAP progress notifications. ™àz›=D/// Whether external package libraries should be marked as debuggable.
+///
+/// Treated as `true` if null. If `false`, "step in" will not step into
+/// libraries in packages that are not either the local package or a path
+/// dependency. This allows users to debug "just their code" and treat Pub
+/// packages as block boxes. ›_z›ÂR/// Whether to show getters in debug views like hovers and the variables
+/// list. ›ŞØ›/// Whether to eagerly evaluate getters in debug views like hovers and the
+/// variables list.
+///
+/// If `true`, getters will be invoked automatically and included inline with
+/// other  fields (implies [showGettersInDebugViews]).
+///
+/// If `false`, getters will not be included unless [showGettersInDebugViews]
+/// is `true`, in which case they will be wrapped and only evaluated when the
+/// user expands them. »´ŸS}/// Whether to call toString() on objects in debug views like hovers and the
+/// variables list.
+///
+/// Invoking toString() has a performance cost and may introduce side-effects,
+/// although users may expected this functionality. null is treated like false
+/// although clients may have their own defaults (for example Dart-Code sends
+/// true by default at the time of writing). Ÿt8 œ/// Whether to send debug logging to clients in a custom `dart.log` event. This
+/// is used both by the out-of-process tests to ensure the logs contain enough
+/// information to track down issues, but also by Dart-Code to capture VM
+/// service traffic in a unified log file.  ±K¡è/// Whether to allow ansi color codes in OutputEvents. These may be used to
+/// highlight user code in stack traces.
+///
+/// Generally, we should only output codes that work equally with both dark
+/// and light themes because we don't know what the clients colour scheme
+/// looks like.  ©„z©.     ­—Àz µS‡¬/// A base DAP Debug Adapter implementation for running and debugging Dart-based
+/// applications (including Flutter and Tests).
+///
+/// This class implements all functionality common to Dart, Flutter and Test
+/// debug sessions, including things like breakpoints and expression eval.
+///
+/// Sub-classes should handle the launching/attaching of apps and any custom
+/// behaviour (such as Flutter's Hot Reload). This is generally done by overriding
+/// `fooImpl` methods that are called during the handling of a `fooRequest` from
+/// the client.
+///
+/// A DebugAdapter instance will be created per application being debugged (in
+/// multi-session mode, one DebugAdapter corresponds to one incoming TCP
+/// connection, though a client may make multiple of these connections if it
+/// wants to debug multiple scripts concurrently, such as with a compound launch
+/// configuration in VS Code).
+///
+/// The lifecycle is described in the DAP spec here:
+/// https://microsoft.github.io/debug-adapter-protocol/overview#initialization
+///
+/// In summary:
+///
+/// The client will create a connection to the server (which will create an
+///   instance of the debug adapter) and send an `initializeRequest` message,
+///   wait for the server to return a response and then an initializedEvent
+/// The client will then send breakpoints and exception config
+///   (`setBreakpointsRequest`, `setExceptionBreakpoints`) and then a
+///   `configurationDoneRequest`.
+/// Finally, the client will send a `launchRequest` or `attachRequest` to start
+///   running/attaching to the script.
+///
+/// The client will continue to send requests during the debug session that may
+/// be in response to user actions (for example changing breakpoints or typing
+/// an expression into an evaluation console) or to events sent by the server
+/// (for example when the server sends a `StoppedEvent` it may cause the client
+/// to then send a `stackTraceRequest` or `scopesRequest` to get variables).µd!µdµ!µÀ P‚ À PÀ P À P!À P:  À PHÀ PN  À P_À Pe  À PzÀ P€  À P›À P¡  À P¬À P·  
+À PTÀ PpÀ P‘À PÆÀ PËÀ PåÀ PÌÀ PÜÀ PÕÀ PŞµê6¶  ¶$7¶* ¶J¶S¶X¶T¶Y¶Z¶_5¶e ¶ƒ¶Œ¶‘¶¶’¶“¶™€¶·A€‰/// Manages VM Isolates and their events, including fanning out any requests
+/// to set breakpoints etc. from the client to all Isolates. ·Tk·µG/// A helper that handlers converting to/from DAP and VM Service types. ·Ä€Ñ¸d€‘/// All active VM Service subscriptions.
+///
+/// TODO(dantup): This may be changed to use StreamManager as part of using
+/// DDS in this process.
+¸“¸”¸u¸’¸v¸ˆ¸‘¸‰¸‹¸Œ¸š€³¹D€“/// The VM service of the app being debugged.
+///
+/// `null` if the session is running in noDebug mode of the connection has not
+/// yet been made. ¹Ri¹°I/// The root of the Dart SDK containing the VM running the debug adapter. ¹À3ºË€ú/// Mappings of file paths to 'org-dartlang-sdk:///' URIs used for translating
+/// URIs/paths between the DAP client and the VM.
+///
+/// Keys are the base file paths and the values are the base URIs. Neither
+/// value should contain trailing slashes.ºñºòºäºğºåºíºø€ì»à€Ç/// The DDS instance that was started and that [vmService] is connected to.
+///
+/// `null` if the session is running in noDebug mode of the connection has not
+/// yet been made or has been shut down. »é€Ú¼´€¢/// The [DartInitializeRequestArguments] provided by the client in the
+/// `initialize` request.
+///
+/// `null` if the `initialize` request has not yet been made. ¼ÈD½2/// Whether to use IPv6 for DAP/Debugger services. ½K½S4/// Whether to enable DDS for launched applications. ½a_½±B/// Whether to enable authentication codes for the VM Service/DDS. ½ÅH¾1/// A logger for printing diagnostic information. ¾€É¾Ë€­/// Whether the current debug session is an attach request (as opposed to a
+/// launch request). Only set during [attachRequest] so will always be `false`
+/// prior to that.¾Ö¾àƒ#À AÏ‚Ğ/// A list of evaluateNames for InstanceRef IDs.
+///
+/// When providing variables for fields/getters or items in maps/arrays, we
+/// need to provide an expression to the client that evaluates to that
+/// variable so that functionality like "Add to Watch" or "Copy Value" can
+/// work. For example, if a user expands a list named `myList` then the 1st
+/// [Variable] returned should have an evaluateName of `myList[0]`. The `foo`
+/// getter of that object would then have an evaluateName of `myList[0].foo`.
+///
+/// Since those expressions aren't round-tripped as child variables are
+/// requested we build them up as we send variables out, so we can append to
+/// them when returning elements/map entries/fields/getters.À BÀ BÀ AñÀ B À AòÀ AúÀ BİÀ C€ó/// A list of all possible project paths that should be considered the users
+/// own code.
+///
+/// This is made up of the folder containing the 'program' being executed, the
+/// 'cwd' and any 'additionalProjectPaths' from the launch arguments.!À C-À CÒÀ C3À C7À C8À CAÀ CDÀ CgÀ CJÀ CEÀ CMÀ CoÀ CsÀ CtÀ C{À C¨À C|À CŸÀ C‚À C}À C…À C À C¡À C¯À C³À C·À C¸À CÓÀ CÔÀ CÜÀ CİÀ CãÀ CäÀ Cê'À Dò€ø/// Whether we have already sent the [TerminatedEvent] to the client.
+///
+/// This is tracked so that we don't send multiple if there are multiple
+/// events that suggest the session ended (such as a process exiting and the
+/// VM Service closing).À EÀ E<À E! À EJÀ E4À E8À E9À EMÀ EW®À Fğ/// Whether or not the DAP is terminating.
+///
+/// When set to `true`, some requests that return "Service Disappeared" errors
+/// will be caught and dropped as these are expected if the process is
+/// terminating.
+///
+/// This flag may be set by incoming requests from the client
+/// (terminateRequest/disconnectRequest) or when a process terminates, or the
+/// VM Service disconnects.À G À G
+ À G÷€İ/// Whether or not the current termination is happening because the user
+/// chose to detach from an attached process.
+///
+/// This affects the message a user sees when the adapter shuts down ('exited'
+/// vs 'detached').À HÀ H2À I€ÿ/// Whether this adapter set the --pause-isolates-on-start flag, specifying
+/// that isolates should pause on starting.
+///
+/// Normally this will be true, but it may be set to false if the user
+/// also manually passed the --pause-isolates-on-start flag.À I=À IF.À JR€ü/// Whether this adapter set the --pause-isolates-on-exit flag, specifying
+/// that isolates should pause on exiting.
+///
+/// Normally this will be true, but it may be set to false if the user
+/// also manually passed the --pause-isolates-on-exit flag.À JpÀ JyÀ K„€ø/// A [Future] that completes when the last queued OutputEvent has been sent.
+///
+/// Calls to [SendOutput] will reserve their place in this queue and
+/// subsequent calls will chain their own sends onto this (and replace it) to
+/// preserve order. À K™%À L•€â/// Capabilities of the DDS instance available in the connected VM Service.
+///
+/// If the VM Service is not yet connected, does not have a DDS instance, or
+/// the version has not been fetched, all capabilities will be false.À L¨À L¸À L¹À LÃ€ŠÀ M.Y/// The ID of the custom VM Service stream that emits events intended for
+/// tools/IDEs.À MBÀ XÒ…À Z6Q/// Whether to subscribe to stdout/stderr through the VM Service.
+///
+/// This is set by [attachRequest] so that any output will still be captured and
+/// sent to the client without needing to access the process.
+///
+/// [launchRequest] reads the stdout/stderr streams directly and does not need
+/// to have them sent via the VM Service.À ZRÀ R)^À SK/// Completes when the debugger initialization has completed. Used to delay
+/// processing isolate events while initialization is still running to avoid
+/// race conditions (for example if an isolate unpauses before we have
+/// processed its initial paused state).   À S‹ZÀ S”    À Sé€íÀ T´€/// The [InitializeRequestArguments] provided by the client in the
+/// `initialize` request.
+///
+/// `null` if the `initialize` request has not yet been made.   À TÚÀ VIY/// Whether or not this adapter can handle the restartRequest.
+///
+/// If false, the editor will just terminate the debug session and start a new
+/// one when the user asks to restart. If true, the adapter must implement
+/// the [restartRequest] method and handle its own restart (for example the
+/// Flutter adapter will perform a Hot Restart).   À Vm‚aÀ X´‚'/// Whether the VM Service closing should be used as a signal to terminate the
+/// debug session.
+///
+/// It is generally better to handle termination when the debuggee terminates
+/// instead, since this ensures the stdout/stderr streams have been drained.
+/// However, that's not possible in some cases (for example 'runInTerminal'
+/// or attaching), so this is the only signal we have.
+///
+/// It is up to the subclass DA to provide this value correctly based on
+/// whether it will call [handleSessionTerminate] itself upon process
+/// termination.   À¡Â€ëÀ¢m€/// Whether the current client supports URIs in place of file paths, including
+/// file-like URIs that are not the 'file' scheme (such as 'dart-macro+file').   ZÀ MR‚µÀ N}/// Removes any breakpoints or pause behaviour and resumes any paused
+/// isolates.
+///
+/// This is useful when detaching from a process that was attached to, where
+/// the user would not expect the script to continue to pause on breakpoints
+/// the had set while attached.   À Z\À [S€ß/// Overridden by sub-classes to handle when the client sends an
+/// `attachRequest` (a request to attach to a running app).
+///
+/// Sub-classes can use the [args] field to access the arguments provided
+/// to this request.   À [d‚_À \<€¸/// [attachRequest] is called by the client when it wants us to attach to
+/// an existing app. This will only be called once (and only one of this or
+/// launchRequest will be called). À \OÀ \X  À \dÀ \h  À \qÀ \‚  À \#À \$À ]Ç´À ^†€®/// Builds an evaluateName given a parent VM InstanceRef ID and a suffix.
+///
+/// If [parentInstanceRefId] is `null`, or we have no evaluateName for it,
+/// will return null. À ^À ^¥  À ^²$À ^Ä   À _€åÀ _÷i/// Builds an evaluateName given a prefix and a suffix.
+///
+/// If [prefix] is null, will return be null. À `À `  À `À `#   À `h‚wÀ b‰/// configurationDone is called by the client when it has finished sending
+/// any initial configuration (such as breakpoints and exception pause
+/// settings).
+///
+/// We delay processing `launchRequest`/`attachRequest` until this request has
+/// been sent to ensure we're not still getting breakpoints (which are sent
+/// per-file) while we're launching and initializing over the VM Service. À b7À b@  À bL À bi  À brÀ bƒ  À b À bÀ bã„À eÄ‚·/// Connects to the VM Service at [uri] and initializes debugging.
+///
+/// This method will be called by sub-classes when they are ready to start
+/// a debug session and may provide a URI given by the user (in the case
+/// of attach) or from something like a vm-service-info file or Flutter
+/// app.debugPort message.
+///
+/// The URI protocol will be changed to ws/wss but otherwise not normalized.
+/// The caller should handle any other normalisation (such as adding /ws to
+/// the end if required).
+///
+/// The implementation for this method is run in try/catch and any
+/// exceptions during initialization will result in the debug adapter
+/// reporting an error to the user and shutting down. À eÔÀ eÙ   À f÷…lÀ háÈ/// Attempts to start a DDS instance to connect to the VM Service at [uri].
+///
+/// Returns the URI to connect the debugger to (whether it's a newly spawned
+/// DDS or there was an existing one).
+///
+/// If we failed to start DDS for a reason other than one already existed for
+/// that VM Service we will return `null` and initiate a shutdown with the
+/// exception printed to the user.
+///
+/// If a new DDS instance was started, it is assigned to [_dds]. À hòÀ h÷   À lgÀ m€¡/// Connects to the VM Service at [uri] and initializes debugging.
+///
+/// This is the implementation for [connectDebugger] which is executed in a
+/// try/catch. À m3À m8   À yø‚ıÀ |ò/// Handlers an error during debugger initialization (such as exceptions
+/// trying to call `getSupportedProtocols` or `getVM`) by sending it to the
+/// client and shutting down.
+///
+/// Without this, the exceptions may go unhandled and just terminate the debug
+/// adapter, which may not be visible to the user. For example VS Code does
+/// not expose stderr of a debug adapter process. With this change, the
+/// exception will show up in the Debug Console before the debug session
+/// terminates. À |,À |4  À |;À |D  À |JÀ |V   À |ùÀ }  À }!À }&  À }*À }9   À ~‰3À ~—    À ~ÀVÀ ~Å  À ~ÖÀ ~Û   À €‚šÀ ‚Ç/// Starts reporting progress to the client for a single operation.
+///
+/// The returned [DapProgressReporter] can be used to send updated messages
+/// and to complete progress (hiding the progress notification).
+///
+/// Clients will use [title] as a prefix for all updates, appending [message]
+/// in the form:
+///
+/// title: message
+///
+/// When `update` is called, the new message will replace the previous
+/// message but the title prefix will remain. À ‚-	À ‚5  À ‚<À ‚D  À ‚PÀ ‚Y   À ‚¸‡aÀ ‚Å  À ‚äÀ ‚ò   À Š4À Š*  À Š<À ŠJ  À ŠZÀ Šk  À ŠxÀ Š‰   À ‹U…ÎÀ ‹Íf/// Process any existing isolates that may have been created before the
+/// streams above were set up. À ‹íÀ ‹û  À Œ	À Œ   À ‘'{À ‘¡\/// Handles the clients "continue" ("resume") request for the thread in
+/// [args.threadId]. À ‘¶À ‘¿  À ‘ËÀ ‘Ş  À ‘ç0À ’  À ‘ˆÀ ‘‰À ’¦jÀ ”é‚/// [customRequest] handles any messages that do not match standard messages
+/// in the spec.
+///
+/// This is used to allow a client/DA to have custom methods outside of the
+/// spec. It is up to the client/DA to negotiate which custom messages are
+/// allowed.
+///
+/// Implementations of this method must call super for any requests they are
+/// not handling. The base implementation will reject the request as unknown.
+///
+/// Custom message starting with _ are considered internal and are liable to
+/// change without warning. À ”üÀ •  À •À •'  À •0#À •H  À ”ĞÀ ”ÑÀ  €–À  Šd/// Overridden by sub-classes to perform any additional setup after the VM
+/// Service is connected. À  œÀ  £   À  ®€À ¡:z/// Overridden by sub-classes to handle when the client sends a
+/// `disconnectRequest` (a forceful request to shut down).   À ¡O‚ûÀ £SØ/// [disconnectRequest] is called by the client when it wants to forcefully shut
+/// us down quickly. This comes after the `terminateRequest` which is intended
+/// to allow a graceful shutdown.
+///
+/// It's not very obvious from the names, but `terminateRequest` is sent first
+/// (a request for a graceful shutdown) and `disconnectRequest` second (a
+/// request for a forced shutdown).
+///
+/// https://microsoft.github.io/debug-adapter-protocol/overview#debug-session-end À £jÀ £s  À £À £•  À £À £¯  À £:À £;À ¤NšDÀ ¥ø‚/// evaluateRequest is called by the client to evaluate a string expression.
+///
+/// This could come from the user typing into an input (for example VS Code's
+/// Debug Console), automatic refresh of a Watch window, or called as part of
+/// an operation like "Copy Value" for an item in the watch/variables window.
+///
+/// If execution is not paused, the `frameId` will not be provided. À ¦À ¦  À ¦"À ¦5  À ¦>0À ¦c  À ¥ßÀ ¥àÀ ¾–dÀ ¿:€–/// Tries to extract the useful part from an evaluation exception message.
+///
+/// If no message could be extracted, returns the whole original error. À ¿XÀ ¿`   À ¿şfÀ À¡€•/// Tries to extract the useful part from an unhandled exception message.
+///
+/// If no message could be extracted, returns the whole original error. À ÀÂÀ ÀÊ   À Áh€¿À ÁÏU/// Handles a detach request, removing breakpoints and unpausing paused
+/// isolates.   À Â+‚XÀ Â¹€‚/// Sends a [TerminatedEvent] if one has not already been sent.
+///
+/// Waits for any in-progress output events to complete first. À ÂÑÀ ÂÙ  À ÂåÀ Ä‡†"À Æ_/// [initializeRequest] is the first call from the client during
+/// initialization and allows exchanging capabilities and configuration
+/// between client and server.
+///
+/// The lifecycle is described in the DAP spec here:
+/// https://microsoft.github.io/debug-adapter-protocol/overview#initialization
+/// with a summary in this classes description. À Æ%À Æ.  À Æ:#À ÆZ  À Æc(À Æ€  À ÅõÀ ÅöÀ Ê­ƒÀ Ì~±/// Checks whether this library is from an external package.
+///
+/// This is used to support debugging "Just My Code" so Pub packages can be
+/// marked as not-debuggable.
+///
+/// A library is considered local if the path is within the 'cwd' or
+/// 'additionalProjectPaths' in the launch arguments. An editor should include
+/// the paths of all open workspace folders in 'additionalProjectPaths' to
+/// support this feature correctly. À Ì—À Ì£  À ÌªÀ Ì¯   À ÍÀ„eÀ Î¥€Ù/// Checks whether [uri] is inside the users project. This is used to support
+/// debugging "Just My Code" (via [isExternalPackageLibrary]) and also for
+/// stack trace highlighting, where non-user code will be faded. À ÎµÀ Îº   À Ò)fÀ Òa0/// Checks whether this library is from the SDK. À ÒnÀ Òs   À Ò“
+À Ó€å/// Overridden by sub-classes to handle when the client sends a
+/// `launchRequest` (a request to start running/debugging an app).
+///
+/// Sub-classes can use the [args] field to access the arguments provided
+/// to this request.   À Ó¡‚BÀ Ô€¾/// [launchRequest] is called by the client when it wants us to start the app
+/// to be run/debug. This will only be called once (and only one of this or
+/// [attachRequest] will be called). À Ô’À Ô›  À Ô§À Ô«  À Ô´À ÔÅ  À ÔfÀ ÔgÀ Õç€ãÀ Ödk/// Overridden by sub-classes that need to control when the response is sent
+/// during the launch process. À ÖuÀ Ö†   À ÖÎ‚À ×¥€Á/// Checks whether a library URI should be considered debuggable.
+///
+/// Initial values are provided in the launch arguments, but may be updated
+/// by the `updateDebugOptions` custom request. À ×¹À ×Å  À ×ÌÀ ×Ñ   À ØáCÀ ÙZ[/// Handles the clients "next" ("step over") request for the thread in
+/// [args.threadId]. À ÙkÀ Ùt  À Ù€À Ù  À Ù˜À Ù©  À ÙAÀ ÙBÀ Ú(À ÚJ/// Handles the clients "pause" request for the thread in [args.threadId]. À Ú À Ú©  À ÚµÀ ÚÅ  À ÚÎÀ Úß  À ÚuÀ ÚvÀ ÛH‚“À Û¹S/// Handles the clients "restartFrame" request for the frame in
+/// [args.frameId]. À ÛÒÀ ÛÛ  À ÛçÀ Ûş  À ÜÀ Ü  À Û À Û¡À İß‚4À ß/// restart is called by the client when the user invokes a restart (for
+/// example with the button on the debug toolbar).
+///
+/// The base implementation of this method throws. It is up to a debug adapter
+/// that advertises `supportsRestartRequest` to override this method. À ß+À ß4  À ß@À ßS  À ß\À ßm  À ŞşÀ ŞÿÀ à…¹À à®y/// [scopesRequest] is called by the client to request all of the variables
+/// scopes available for a given stack frame. À àÁÀ àÊ  À àÖÀ àç  À àğ.À á  À à•À à–À åÔÑÀ çGa/// Sends an OutputEvent with a trailing newline to the console.
+///
+/// This method sends output directly and does not go through [sendOutput]
+/// because that method is async and queues output. Console output is for
+/// adapter-level output that does not require this and we want to ensure
+/// it's sent immediately (for example during shutdown/exit). À çYÀ çb   À ç©…À éB…/// Sends an OutputEvent (without a newline, since calls to this method
+/// may be using buffered data that is not split cleanly on newlines).
+///
+/// To ensure output is sent to the client in the correct order even if
+/// processing stack frames requires async calls, this function will insert
+/// output events into a queue and only send them when previous calls have
+/// been completed. À éRÀ éZ  À égÀ éo  À é}À éƒ  À éšqÀ éü  À éšÀ é›À é¥À éïÀ é¯À ìÂìÀ í¤€Ò/// Sends an OutputEvent for [message], prefixed with [prefix] and with [message]
+/// indented to after the prefix.
+///
+/// Assumes the output is in full lines and will always include a terminating
+/// newline. À í·À í¿  À íÈÀ íĞ  À í×À íß   À î²‡0À ñ>‚Z/// Handles a request from the client to set breakpoints.
+///
+/// This method can be called at any time (before the app is launched or while
+/// the app is running) and will include the new full set of breakpoints for
+/// the file URI in [args.source.path].
+///
+/// The VM requires breakpoints to be set per-isolate so these will be passed
+/// to [isolateManager] that will fan them out to each isolate.
+///
+/// When new isolates are registered, it is [isolateManager]'s responsibility
+/// to ensure all breakpoints are given to them (and like at startup, this
+/// must happen before they are resumed). À ñYÀ ñb  À ñnÀ ñ‡  À ñ6À ñ»  À ñ%À ñ&À õæƒúÀ ø ‚
+/// Handles a request from the client to set exception pause modes.
+///
+/// This method can be called at any time (before the app is launched or while
+/// the app is running).
+///
+/// The VM requires exception modes to be set per-isolate so these will be
+/// passed to [isolateManager] that will fan them out to each isolate.
+///
+/// When new isolates are registered, it is [isolateManager]'s responsibility
+/// to ensure the pause mode is given to them (and like at startup, this
+/// must happen before they are resumed). À øDÀ øM  À øY%À ø{  À ø„?À ø¸  À øÀ øÀ ùä•À û/!/// Shuts down/detaches from the debugee and cleans up.
+///
+/// This is called by [disconnectRequest] and [terminateRequest] but may also
+/// be called if the client just disconnects from the server without calling
+/// either.
+///
+/// This method must tolerate being called multiple times.  À ûÀ ûÀ û}‚ÚÀ üc/// Shuts down the debug adapter, including terminating/detaching from the
+/// debugee if required.  À ûåÀ ûæÀ ûñÀ ûòÀ ş[ƒÁÀ şï€Š/// Converts a URI in the form org-dartlang-sdk:///sdk/lib/collection/hash_set.dart
+/// to a local file-like URI based on the current SDK. À ÿÀ ÿ   À vÀ²€…/// Converts a file path inside the current SDK root into a URI in the
+/// form org-dartlang-sdk:///sdk/lib/collection/hash_set.dart. ÀÎÀÖ   Àšƒ?À(€„/// Converts a file URI inside the current SDK root into a URI in the
+/// form org-dartlang-sdk:///sdk/lib/collection/hash_set.dart. ÀC	ÀH   Àİ…)À–/// [sourceRequest] is called by the client to request source code for a given
+/// source.
+///
+/// The client may provide a whole source or just an int sourceReference (the
+/// spec originally had only sourceReference but now supports whole sources).
+///
+/// The supplied sourceReference should correspond to a ScriptRef instance
+/// that was stored to generate the sourceReference when sent to the client. À°À¹  ÀÅÀÖ  Àß.À	  À„À…À
+•gÀ”‚Z/// Handles a request from the client for the call stack for [args.threadId].
+///
+/// This is usually called after we sent a [StoppedEvent] to the client
+/// notifying it that execution of an isolate has paused and it wants to
+/// populate the call stack view.
+///
+/// Clients may fetch the frames in batches and VS Code in particular will
+/// send two requests initially - one for the top frame only, and then one for
+/// the next 19 frames. For better performance, the first request is satisfied
+/// entirely from the threads pauseEvent.topFrame so we do not need to
+/// round-trip to the VM Service. À«À´  ÀÀÀÕ  ÀŞ2À  À{À|À!u6À!İL/// Handles the clients "step in" request for the thread in [args.threadId]. À!ğÀ!ù  À"À"  À"À"0  À!ÄÀ!ÅÀ"¯8À#M/// Handles the clients "step out" request for the thread in [args.threadId]. À#,À#5  À#AÀ#S  À#\À#m  À"ÿÀ# À#ëÀ$P[/// Stores [evaluateName] as the expression that can be evaluated to get
+/// [instanceRef]. À$bÀ$r  À$~À$‡   À%
+€À%˜|/// Overridden by sub-classes to handle when the client sends a
+/// `terminateRequest` (a request for a graceful shut down).   À%¬‚‘À'Is/// [terminateRequest] is called by the client when it wants us to gracefully
+/// shut down.
+///
+/// It's not very obvious from the names, but `terminateRequest` is sent first
+/// (a request for a graceful shutdown) and `disconnectRequest` second (a
+/// request for a forced shutdown).
+///
+/// https://microsoft.github.io/debug-adapter-protocol/overview#debug-session-end À'_À'h  À'tÀ'‰  À'’À'£  À'0À'1À(A‚ŒÀ)W€ò/// Handles a request from the client for the list of threads.
+///
+/// This is usually called after we sent a [StoppedEvent] to the client
+/// notifying it that execution of an isolate has paused and it wants to
+/// populate the threads view. À)kÀ)t  À)€	À)†  À)/À)³  À)>À)?À*Ñ *À-p‚m/// [variablesRequest] is called by the client to request child variables for
+/// a given variables variablesReference.
+///
+/// The variablesReference provided by the client will be a reference the
+/// server has previously provided, for example in response to a scopesRequest
+/// or an evaluateRequest.
+///
+/// We use the reference to look up the stored data and then create variables
+/// based on the type of data. For a Frame, we will return the local
+/// variables, for a List/MapAssociation we will return items from it, and for
+/// an instance we will return the fields (and possibly getters) for that
+/// instance. À-†À-  À-›À-¯  À-¸1À-Ş  À-WÀ-XÀJÿ‚*ÀKQ5/// Gets global variables for the library of [frame]. ÀKgÀKs  ÀK~ÀKˆ   ÀM-äÀM¯y/// Fixes up a VM Service WebSocket URI to not have a trailing /ws
+/// and use the HTTP scheme which is what DDS expects. ÀMÂÀMÇ   ÀO‚§ÀOÀ€/// Fixes up a VM Service [uri] to a WebSocket URI with a trailing /ws
+/// for connecting when not using DDS.
+///
+/// DDS does its own cleaning up of the URI. ÀOØÀOİ   ÀQÀ„%ÀRµ€Î/// Creates one or more OutputEvents for the provided [message].
+///
+/// Messages that contain stack traces may be split up into separate events
+/// for each frame to allow location metadata to be attached. ÀRÍÀRÕ  ÀRâÀRê  ÀRøÀRş   ÀUé“–ÀVÜ€Ì/// Builds OutputEvents with source references if they contain stack frames.
+///
+/// If a stack trace can be parsed from [message], file/line information will
+/// be included in the metadata of the event. ÀW
+ÀW  ÀWÀW#   Àiƒƒ–Àj>€Ÿ/// Handles evaluation of an expression that is (or begins with)
+/// `threadExceptionExpression` which corresponds to the exception at the top
+/// of [thread]. Àj`Àje  Àj|Àj„  Àj“ÀjŸ   Àmƒ=ÀmH  ÀmYÀmc  ÀmÀmÀm*Àm+Àp^€õÀp‰  ÀpÀp¨  Àp^Àp_ÀpkÀplÀqWƒÀq‚  Àq•ÀqŸ  ÀqWÀqXÀqdÀqeÀtf„hÀu-€°/// Helper to convert to InstanceRef to a complete untruncated unquoted
+/// String, handling [vm.InstanceKind.kNull] which is the type for the unused
+/// fields of a log event. Àu;ÀuG  ÀuNÀu_   ÀxÒƒÊÀyGG/// Handles a dart:developer log() event, sending output to the client. ÀyZÀyd  ÀyÀyÀy)Ày*À| ‚À|Ë  À|ŞÀ|è  À| À|¡À|­À|®À~º„lÀÍ€û/// Resolves any URI stored in [data] with key [field] to a local file URI via
+/// the VM Service and adds it to [data] with a 'resolved' prefix.
+///
+/// A resolved URI will not be added if the URI cannot be resolved or is
+/// already a 'file://' URI. ÀçÀ÷  À€À€  À€"À€*   Àƒ*‚…ÀƒU  ÀƒeÀƒo  Àƒ*Àƒ+Àƒ7Àƒ8À…³ZÀ…¸  À…ËÀ…Õ   À†ZÀ†  À†)À†3   À†o€–À†|    À‡	€¯À‡  À‡À‡"   À‡¼„:Àˆ%W/// Performs some setup that is common to both [launchRequest] and
+/// [attachRequest]. Àˆ?ÀˆF   À‹úmÀŒŒ€†/// Sends output for a VM WriteEvent to the client.
+///
+/// Used to pass stdout/stderr when there's no access to the streams directly. ÀŒ£ÀŒ«  ÀŒ°ÀŒº   Àk€İÀp  À‹À“  À À¨   ÀL€¿ÀQ  ÀjÀr  ÀzÀ‚   À€ÃÀ  À/À7  À?ÀG   ÀÖ‚jÀ¤€¸/// Updates the current debug options for the session.
+///
+/// Clients may not know about all debug options, so anything not included
+/// in the map will not be updated by this method. À¸ÀÎ   À’Dƒ‡À’Ú|/// A wrapper around the same name function from package:vm_service that
+/// allows logging all traffic over the VM Service. À’ïÀ’÷   À•Ï‚À—S^/// Wraps a function with an error handler that handles errors that occur when
+/// the VM Service/DDS shuts down.
+///
+/// When the debug adapter is terminating, it's possible in-flight requests
+/// triggered by handlers will fail with "Service Disappeared". This is
+/// normal and such errors can be ignored, rather than allowed to pass
+/// uncaught.À—qÀ—qÀ—yÀ—‘   À—ä‚À˜º€À/// Waits for any pending async output events that might be in progress.
+///
+/// If another output event is queued while waiting, the new event will be
+/// waited for, until there are no more.   À™ï‡ÏÀ›MD/// Calls a function with an error handler that handles errors that occur when
+/// the VM Service/DDS shuts down.
+///
+/// When the debug adapter is terminating, it's possible in-flight requests
+/// will fail with "Service Disappeared". This is normal and such errors can
+/// be ignored, rather than allowed to pass uncaught.À›`À›`À›cÀ›{   À¢±ÑÀ£Ÿ€Ş/// Returns whether [uri] is a file-like URI scheme that is supported by the
+/// client.
+///
+/// Returning `true` here does not guarantee that the client supports URIs,
+/// the caller should also check [clientSupportsUri]. À£µÀ£º   À¤†‚À¥‘€ø/// Converts a URI into a form that can be used by the client.
+///
+/// If the client supports URIs (like VS Code), it will be returned unchanged
+/// but otherwise it will be the `toFilePath()` equivalent if a 'file://' URI
+/// and otherwise `null`. À¥£À¥©   À¦(À¦ØD/// Converts a String used by the client as a path/URI into a [Uri]. À¦ìÀ¦ô    À§¹’ÑÀ©@€/// An implementation of [LaunchRequestArguments] that includes all fields used
+/// by the Dart CLI and test debug adapters.
+///
+/// This class represents the data passed from the client editor to the debug
+/// adapter in launchRequest, which is a request to start debugging an
+/// application.
+///
+/// Specialized adapters (such as Flutter) have their own versions of this
+/// class. À²¶‚n À²¶À²Ğ À²×À²İ  À²éÀ²ø  À³	À³
+  À³À³  À³+À³1  À³>À³D  À³YÀ³_  À³kÀ³q  À³€À³†  À³¡À³¨  À³´
+À³»  À³Ä	À³Ë  À³Ó	À³Ú  À³âÀ³é  À´À´  À´!#À´(  À´JÀ´Q  À´m!À´t  À´”"À´›  À´¼À´Ã  À´Ø%À´ß  ÀµÀµ
+  À´ùÀµ(‚…ÀµBÀµCÀµJ ÀµK	ÀµR  vÀµfÀµ^ÀµhÀµkÀµlÀµpÀµvÀµqÀµuÀµwÀµ†ÀµxÀµ}Àµ™Àµ‘Àµ›ÀµÀµŸÀµ£ÀµªÀµ¤Àµ«ÀµºÀµ¬Àµ±ÀµÊÀµÅÀµÌÀµÏÀµĞÀµàÀµçÀµáÀµèÀµôÀµéÀµîÀ¶ÀµÿÀ¶
+À¶À¶À¶À¶%À¶À¶&À¶6À¶'À¶,À¶RÀ¶AÀ¶`À¶cÀ¶dÀ¶tÀ¶{À¶uÀ¶|À¶”À¶}À¶‚À¶­À¶ŸÀ¶¯À¶²À¶³À¶·À¶¼À¶¸À¶»À¶½À¶ÒÀ¶¾À¶ÃÀ¶åÀ¶İÀ¶çÀ¶êÀ¶ëÀ¶ïÀ¶÷À¶ğÀ¶öÀ¶øÀ·À¶ùÀ¶şÀ·À·À·À·"À·#À·'À·/À·(À·.À·0À·BÀ·1À·6À·dÀ·MÀ·fÀ·iÀ·jÀ·nÀ·sÀ·oÀ·rÀ·tÀ·’À·uÀ·zÀ·À·¢À·£À·ªÀ·«
+À©´€¬Àª6p/// A reader for protocol arguments that throws detailed exceptions if
+/// arguments aren't of the correct type.Àª<ÀªVÀª_ÀªWÀªe€‡Àªåc/// If noDebug is true the launch request should launch the program without
+/// enabling debugging.ÀªÍÀªÎÀªñ=À«'&/// The program/Dart script to be run. À«3CÀ«r(/// Arguments to be passed to [program]. À«{€ŠÀ«ıi/// Arguments to be passed to the tool that will run [program] (for example,
+/// the VM or Flutter tool). À¬
+YÀ­S&/// Arguments to be passed directly to the Dart VM that will run [program].
+///
+/// Unlike [toolArgs] which always go after the complete tool, these args
+/// always go directly after `dart`:
+///
+///   - dart {vmAdditionalArgs} {toolArgs}
+///   - dart {vmAdditionalArgs} run test:test {toolArgs} À­hÀ­s  À­…‚)À¯§ÿ/// Which console to run the program in.
+///
+/// If "terminal" or "externalTerminal" will cause the program to be run by
+/// the client by having the server call the `runInTerminal` request on the
+/// client (as long as the client advertises support for
+/// `runInTerminalRequest`).
+///
+/// Otherwise will run inside the debug adapter and stdout/stderr will be
+/// routed to the client using [OutputEvent]s. This is the default (and
+/// simplest) way, but prevents the user from being able to type into `stdin`. À¯³”À±=k/// An optional tool to run instead of "dart".
+///
+/// In combination with [customToolReplacesArgs] allows invoking a custom
+/// tool instead of "dart" to launch scripts/tests. The custom tool must be
+/// completely compatible with the tool/command it is replacing.
+///
+/// This field should be a full absolute path if the tool may not be available
+/// in `PATH`. À±LeÀ²›7/// The number of arguments to delete from the beginning of the argument list
+/// when invoking [customTool].
+///
+/// For example, setting [customTool] to `dart_test` and
+/// `customToolReplacesArgs` to `2` for a test run would invoke
+/// `dart_test foo_test.dart` instead of `dart run test:test foo_test.dart`.  À·±‚]À·Ò   À·±À·²ÀºvÀº4  Àº=ÀºS    ÀºŒ‚ªÀºî[/// A helper for checking whether the available DDS instance has specific
+/// capabilities. À»hC À»nÀ»~ À»€À»  À»•À»¤   À»À»  À»À»   À»*9À»7 	À»?À»OÀ»bÀ»UÀ»PÀ»WÀ»_À»ZÀ»aÀ»¯€¢À¼\/// Whether the DDS instance supports custom streams via `dart:developer`'s
+/// `postEvent`.   À¼U€ßÀ¼Z  À¼fÀ¼p  À¼vÀ¼€           ˆ€wˆ¾5/// Typedef for handlers of VM Service stream events.ˆÒˆÒ ˆïˆò    ƒ¿J„í'/// The mime type to send with source responses to the client.
+///
+/// This is used so if the source name does not end with ".dart" the client can
+/// still tell which language to use (for syntax highlighting, etc.).
+///
+/// https://github.com/microsoft/vscode/issues/8182#issuecomment-231151640„ü…†€ù/// Maximum number of toString()s to be called when responding to variables
+/// requests from the client.
+///
+/// Setting this too high can have a performance impact, for example if the
+/// client requests 500 items in a variablesRequest for a list.†(†.‚OˆM‚/// An expression that evaluates to the exception for the current thread.
+///
+/// In order to support some functionality like "Copy Value" in VS Code's
+/// Scopes/Variables window, each variable must have a valid "evaluateName" (an
+/// expression that evaluates to it). Since we show exceptions in there we use
+/// this magic value as an expression that maps to it.
+///
+/// This is not intended to be used by the user directly, although if they
+/// evaluate it as an expression and the current thread has an exception, it
+/// will work.ˆiˆù<Š%%/// A null result passed to `sendResponse` functions when there is no result.
+///
+/// Because the signature of `sendResponse` is generic, an argument must be
+/// provided even when the generic type is `void`. This value is used to make
+/// it clearer in calling code that the result is unused.Š1Š8€…ŠN/// Pattern for extracting useful error messages from an evaluation exception.Š¨Š®Š¼Š¯ŠÀ€“‹M/// Pattern for extracting useful error messages from an unhandled exception.‹/‹5‹R‹6‹VU‹‚%/// Pattern for a trailing semicolon.‹‹¤‹ª‹¥  ‹í N€œ€Ø€Ù€îEd©é‚
+‚3‚f‚g‚ƒ‚¨‚Í‚ïƒ	ƒ-ƒRƒtƒŒƒ¨ƒ¾ƒ¿ƒş„„R„˜„œ„ç………X…v…z…Æ††-†.†x†|†Æ‡‡e‡œ‡ ‡ëˆ8ˆGˆˆ€ˆ¶ˆøˆù‰G‰K‰—‰åŠŠ7Š8Š‡Š¿ŠÀ‹‹U‹V‹|‹­‹®‹şŒ+Œ/Œ}ŒÄŒÕŒÙ$/§ÎÔ-.~„ºİŞ'S®Åáô5R{Åí‘	‘4‘T‘b‘¶‘Ë‘Ö‘×’’F’’¨’©’µ’Ú’õ“5“„“““Ø””	”
+”A”†”Î••C•…•†•À––<–U–V–l––‚–¿–á–â——$—t—¾˜˜(˜V˜W˜“˜™˜ç˜ø™™™d™j™µ™İ™Şš'š-šwšÃ››/›\›]›¨›´›Û›Üœ)œ?œEœ•œÎœÔ$t¸¹$uÆŸŸEŸqŸrŸÄ  a  ® ¯ ı¡(¡.¡|¡È¡Ú¡ş¡ÿ¢*¢E¢]¢t¢‹¢µ¢Ú££X£i£‹£Ø£é¤¤7¤g¤‹¤¶¤¼¤½¥¥=¥l¥™¥Ø¥ù¦B¦‰¦±¦ô§§S§y§º§á¨#¨h¨‹¨É©©©<©m©•©º©ßªªGª–ªÉ««@«~«¯«õ¬'¬o¬»¬é­)­S­‹­”­–­—­è®®®i®´®¸¯¯X¯©¯¹¯½°°U°¢°ó±±±K±š±±®±²±ş²L²˜²×³³?³³¶³º´
+´Y´§´÷µDµ‡µÓµè¶"¶]¶–¶—¶æ·%·Q·R·œ·Á·Â·í·ó¸A¸\¸—¸˜¸È¸Î¹¹4¹O¹P¹œ¹½¹¾ººCºIº–ºÃºõºö»D»J»›»Æ»æ»ç¼0¼L¼R¼’¼Å¼Æ¼û½½½F½^½_½¤½Â½Ã½÷¾¾¾^¾¯¾Ä¾İ¾Ş¿¿¿e¿®¿ûÀ @IÀ @™À @éÀ @ïÀ A9À AˆÀ AÇÀ BÀ BÀ BUÀ BeÀ BkÀ B¼À CÀ C/À C=À CiÀ C«À CĞÀ CçÀ CèÀ D0À D6À DÀ DĞÀ DëÀ EÀ EÀ ETÀ EUÀ E‚À EˆÀ EÙÀ F"À F5À F;À F{À FËÀ FéÀ GÀ GÀ GSÀ GƒÀ G‰À GÚÀ GğÀ HÀ HÀ H[À H‰À HÀ HØÀ IÀ ICÀ IDÀ I‘À I¾À IÄÀ JÀ JKÀ JvÀ JwÀ JÇÀ JÍÀ KÀ KdÀ KzÀ K–À K—À KåÀ KëÀ L:À L‚À LÀÀ LÁÀ MÀ MÀ MOÀ MPÀ M˜À M¨À M®À MıÀ NLÀ NnÀ N À NÈÀ OÀ OÀ OKÀ OÀ O‹À OÔÀ OüÀ PÀ PÀ P	À PÀ PDÀ P[À PvÀ P—À P¨À P¿À PéÀ QÀ QÀ QFÀ Q|À QÌÀ QÍÀ QøÀ R"À R&À R'À RuÀ RÄÀ SÀ S8À SˆÀ S‰À S´À SæÀ SçÀ T,À THÀ TNÀ TÀ T×À TØÀ UÀ UÀ UpÀ U½À VÀ V>À VjÀ VkÀ V¼À VÑÀ V×À W'À WvÀ WÄÀ WıÀ XÀ XNÀ X–À X©À XÏÀ XĞÀ YÀ YÀ YmÀ Y­À Y³À ZÀ Z0À ZYÀ ZZÀ ZÀ ZÛÀ ZáÀ [-À [DÀ [aÀ [bÀ [®À [üÀ \!À \-À \KÀ \`À \mÀ \À \›À \ÛÀ \ğÀ ]À ]À ],À ]WÀ ]XÀ ]“À ]«À ]¬À ]ÀÀ ]ÄÀ ]ÅÀ ^À ^À ^dÀ ^|À ^™À ^®À ^ØÀ ^ßÀ ^şÀ _<À _xÀ _|À _}À _·À _½À _íÀ `,À `aÀ `eÀ `fÀ `³À `üÀ aÀ aÀ adÀ a²À aşÀ b
+À b3À bHÀ bnÀ bÀ bœÀ bÈÀ bÜÀ bàÀ báÀ c&À c,À cyÀ cÄÀ dÀ d+À d1À d€À dÎÀ dêÀ dğÀ e5À e}À eµÀ eåÀ eïÀ fÀ f3À f}À f™À f¶À fØÀ fêÀ fğÀ fôÀ fõÀ gCÀ gIÀ g˜À gÁÀ gÇÀ hÀ hdÀ h‰À hÀ hÒÀ iÀ iÀ iDÀ iVÀ ioÀ iŒÀ iÂÀ ißÀ j)À joÀ j¦À jÓÀ jâÀ k)À ktÀ kšÀ kÆÀ lÀ l=À lRÀ lZÀ l`À ldÀ leÀ lªÀ l°À lşÀ mÀ mDÀ mYÀ m‡À m¿À môÀ nÀ naÀ n¢À nÁÀ nÑÀ nÙÀ nğÀ nıÀ o'À o-À o.À obÀ oÀ oßÀ pÀ pJÀ pKÀ pjÀ p²À pçÀ q1À qPÀ q{À q¢À qÉÀ qÒÀ qØÀ r"À r#À rKÀ rfÀ rgÀ r‡À rˆÀ rÏÀ rĞÀ sÀ saÀ s‘À s­À sîÀ t+À tlÀ t±À tòÀ uÀ u_À u‰À uËÀ vÀ vÀ vÀ v6À vnÀ v¤À vÜÀ wÀ wNÀ wšÀ wÄÀ wıÀ x6À x?À xGÀ xHÀ xtÀ xÂÀ xÃÀ yÀ y1À y2À ybÀ y€À y»À yÂÀ yÃÀ yñÀ yõÀ yöÀ zAÀ zÀ z¯À zµÀ {À {TÀ {À {éÀ {ûÀ |&À |^À |À |¨À |ÂÀ |âÀ |òÀ |öÀ |÷À }HÀ }‡À }¦À }ÎÀ }àÀ ~À ~	À ~À ~À ~]À ~‡À ~¨À ~¹À ~½À ~¾À ~áÀ 0À ~À À ŸÀ ´À ÜÀ æÀ €À €À €À €À €^À €dÀ €²À €õÀ €ûÀ KÀ ^À dÀ yÀ À ÈÀ øÀ ‚)À ‚8À ‚LÀ ‚aÀ ‚hÀ ‚±À ‚µÀ ‚¶À ‚àÀ ‚üÀ ƒÀ ƒWÀ ƒ§À ƒßÀ ƒóÀ „1À „mÀ „·À „ÙÀ „ıÀ …!À …rÀ …²À …³À …ßÀ †À †CÀ †OÀ †€À †±À †½À †ÎÀ ‡À ‡&À ‡.À ‡4À ‡5À ‡?À ‡ŒÀ ‡¸À ‡éÀ ˆÀ ˆ À ˆ)À ˆ*À ˆ|À ˆ›À ˆĞÀ ‰À ‰8À ‰AÀ ‰SÀ ‰£À ‰ĞÀ ŠÀ ŠÀ ŠÀ ŠÀ Š8À ŠVÀ ŠtÀ Š—À Š¤À Š®À ŠæÀ ŠøÀ ‹HÀ ‹NÀ ‹RÀ ‹SÀ ‹À ‹¾À ‹éÀ ŒÀ ŒÀ Œ#À ŒTÀ ŒÀ Œ½À ŒíÀ À +À EÀ ‚À ĞÀ òÀ )À SÀ {À ÀÀ ÁÀ 	À XÀ ¨À ÷À À RÀ |À ›À ¦À ÓÀ ‘À ‘À ‘ À ‘$À ‘%À ‘oÀ ‘†À ‘’À ‘²À ‘ÇÀ ‘ãÀ ’À ’%À ’[À ’ŸÀ ’£À ’¤À ’óÀ “À “À “ZÀ “§À “¶À “¼À ”À ”[À ”aÀ ”°À ”ÎÀ ”ÚÀ ”øÀ •À •,À •UÀ •aÀ •€À •ĞÀ –À –2À –WÀ –›À –ÆÀ –ÕÀ –ÖÀ —À —TÀ —uÀ —‘À —ÁÀ —ËÀ —ìÀ —ûÀ —üÀ ˜KÀ ˜ƒÀ ˜°À ˜ÊÀ ™À ™ À ™GÀ ™À ™šÀ ™¤À ™êÀ š*À š<À šTÀ š_À š…À š”À š•À šäÀ ›0À ›{À › À ›¸À ›æÀ œÀ œÀ œÀ œ`À œ¬À œøÀ (À GÀ “À âÀ -À yÀ ¶À øÀ ŸÀ Ÿ[À Ÿ‡À Ÿ¨À Ÿ·À Ÿ¸À ŸÇÀ  À  À  À  À  _À  {À  «À  ¬À  îÀ ¡+À ¡LÀ ¡MÀ ¡ À ¡ñÀ ¢À ¢À ¢lÀ ¢¸À ¢ŞÀ ¢äÀ £8À £DÀ £fÀ £{À £šÀ £¼À £ÈÀ £âÀ £ãÀ £ÿÀ ¤À ¤0À ¤1À ¤GÀ ¤KÀ ¤LÀ ¤›À ¤¡À ¤ñÀ ¥AÀ ¥‘À ¥—À ¥İÀ ¥éÀ ¦	À ¦À ¦:À ¦pÀ ¦|À ¦À ¦ŸÀ ¦ìÀ §0À §HÀ §]À §xÀ §²À §ÌÀ §êÀ ¨À ¨&À ¨,À ¨-À ¨yÀ ¨°À ¨ÒÀ ©À ©2À ©XÀ ©xÀ ©ˆÀ ©‰À ©ÖÀ ª&À ª[À ª\À ª¬À ªöÀ «AÀ «}À «ÇÀ «ÈÀ «öÀ ¬5À ¬6À ¬‡À ¬ªÀ ¬ğÀ ­/À ­5À ­6À ­rÀ ­©À ­¿À ­ÑÀ ®!À ®qÀ ®ŠÀ ®ÂÀ ®ÉÀ ®ûÀ ¯%À ¯rÀ ¯ŒÀ ¯ÄÀ ¯ÅÀ ¯åÀ °À °;À °bÀ °hÀ °iÀ °¤À °õÀ ±CÀ ±”À ±ÛÀ ²À ²RÀ ²À ²‘À ²ªÀ ²´À ²ĞÀ ²øÀ ³À ³PÀ ³nÀ ³„À ³–À ³¡À ³ÚÀ ´À ´+À ´AÀ ´WÀ ´{À ´†À ´¶À µÀ µ@À µƒÀ µŸÀ µïÀ ¶À ¶PÀ ¶—À ¶¡À ¶¢À ¶ÎÀ ¶ìÀ ·À ·À ·=À ·HÀ ·PÀ ·bÀ ·À ·‚À ·ÉÀ ·ùÀ ¸À ¸BÀ ¸ĞÀ ¸äÀ ¸öÀ ¸ÿÀ ¹NÀ ¹sÀ ¹ÃÀ ¹ËÀ ¹ÌÀ ¹ûÀ ºÀ ºÀ º#À ºgÀ ºÀ ºÙÀ »À »gÀ »wÀ »‡À »¥À »îÀ ¼À ¼AÀ ¼JÀ ¼KÀ ¼‘À ¼ŸÀ ¼ÛÀ ¼ÜÀ ½%À ½]À ½ŠÀ ½‹À ½´À ½ÒÀ ¾À ¾À ¾À ¾<À ¾€À ¾‰À ¾À ¾“À ¾”À ¾áÀ ¾çÀ ¿1À ¿kÀ ¿¬À ¿ÔÀ ¿÷À ¿ûÀ ¿üÀ ÀHÀ ÀNÀ À˜À ÀÕÀ ÁÀ Á>À ÁaÀ ÁeÀ ÁfÀ Á°À ÁÀÀ ÁæÀ ÁşÀ Â$À Â(À Â)À ÂkÀ ÂqÀ Â²À ÂòÀ ÃÀ ÃÀ Ã?À ÃMÀ ÃSÀ ÃTÀ ÃnÀ Ã’À Ã“À ÃâÀ ÃòÀ Ä*À ÄZÀ Ä€À Ä„À Ä…À ÄÈÀ ÅÀ Å3À Å9À ÅpÀ ÅÁÀ ÅóÀ ÅÿÀ Æ!À Æ6À Æ_À ÆÀ Æ™À ÆĞÀ ÆìÀ ÆíÀ Ç<À Ç[À ÇÀ Ç£À Ç¼À ÇßÀ ÇşÀ È	À È-À ÈLÀ ÈtÀ È’À ÈÀ È¦À ÈÌÀ ÈøÀ É&À ÉTÀ É{À É§À ÉÆÀ ÉüÀ ÊÀ ÊDÀ ÊLÀ ÊMÀ ÊÀ Ê¦À ÊªÀ Ê«À ÊêÀ ÊğÀ Ë>À Ë^À ËdÀ Ë«À ËüÀ ÌIÀ ÌoÀ Ì»À ÌßÀ ÌóÀ ÌùÀ ÌúÀ ÍGÀ ÍmÀ ÍÀ Í‡À ÍˆÀ Í¹À Í½À Í¾À ÎÀ Î[À ÎÀ ÎÆÀ ÎóÀ ÏÀ ÏÀ ÏÀ Ï^À Ï«À ÏüÀ ĞAÀ ĞBÀ ĞÀ ĞİÀ Ñ,À Ñ^À Ñ‰À ÑŠÀ Ñ¢À ÑÛÀ Ò"À Ò&À Ò'À ÒZÀ ÒÀ Ò‘À ÒÓÀ ÓÀ ÓÀ ÓjÀ ÓÀ ÓÀ ÓŸÀ ÓïÀ Ô=À ÔdÀ ÔpÀ ÔÀ Ô£À Ô°À ÔÒÀ ÔŞÀ ÕÀ Õ4À Õ5À ÕJÀ Õ}À Õ~À Õ¶À ÕàÀ ÕäÀ ÕåÀ Ö4À ÖUÀ Ö›À Ö³À ÖÇÀ ÖËÀ ÖÌÀ ×À ×À ×dÀ ×–À ×İÀ ×úÀ Ø)À ØiÀ Ø À Ø´À ØÁÀ ØÔÀ ØÚÀ ØŞÀ ØßÀ Ù(À Ù?À ÙKÀ ÙgÀ Ù|À Ù”À Ù¶À ÙÂÀ ÚÀ Ú!À Ú%À Ú&À ÚsÀ ÚÀ ÚœÀ Ú±À ÚÊÀ ÚìÀ ÚøÀ Û-À ÛAÀ ÛEÀ ÛFÀ ÛˆÀ ÛÀ ÛªÀ ÛÎÀ ÛãÀ ÜÀ Ü%À Ü1À ÜnÀ Ü†À Ü°À Ü¾À ÜÄÀ ÜÅÀ ÜåÀ İÀ İAÀ İ_À İmÀ İsÀ İtÀ İÄÀ İØÀ İÜÀ İİÀ Ş(À Ş]À ŞcÀ Ş´À ŞüÀ ßÀ ß'À ß<À ßXÀ ßzÀ ß†À ß§À ßİÀ à	À àÀ àÀ àÀ àcÀ à“À àŸÀ à½À àÒÀ àìÀ á À á,À áoÀ á–À á¹À áïÀ âÀ âÀ â=À âUÀ âmÀ â‘À â¿À âÿÀ ã
+À ã$À ã.À ã/À ãGÀ ã`À ã…À ã³À ãôÀ ãÿÀ äÀ ä#À ä$À äsÀ ä’À äÎÀ äöÀ åÀ å.À å`À å|À åˆÀ åÀ å–À å—À åÍÀ åÑÀ åÒÀ æÀ æÀ æhÀ æ´À ç À ç@À çlÀ ç¢À ç¦À ç§À çñÀ è:À è@À èŠÀ èØÀ é%À é;À éNÀ écÀ éyÀ é–À é§À éñÀ êÀ êÀ êkÀ ê—À êÀÀ êşÀ ë'À ë(À ë2À ëgÀ ëyÀ ëŠÀ ëºÀ ëÃÀ ëÄÀ ìÀ ìGÀ ìbÀ ì‰À ì™À ìµÀ ì»À ì¿À ìÀÀ íÀ í8À í>À íÀ íÀ íéÀ îÀ î3À îtÀ î«À î¯À î°À îìÀ îòÀ ïCÀ ï’À ï¼À ïÂÀ ğÀ ğTÀ ğZÀ ğªÀ ğ÷À ñ#À ñ/À ñUÀ ñjÀ ñŒÀ ñÈÀ ñÔÀ òÀ òÀ ò(À òKÀ òhÀ ò¥À ò¶À ò·À óÀ óPÀ óyÀ ózÀ ó¤À óáÀ óôÀ ô5À ô6À ôcÀ ôˆÀ ôÚÀ õ!À õiÀ õ¨À õ½À õÅÀ õßÀ õãÀ õäÀ ö*À ö0À öÀ öœÀ ö¢À öïÀ ÷8À ÷>À ÷À ÷ÙÀ øÀ øÀ ø@À øUÀ ø€À øÅÀ øÑÀ øÿÀ ùÀ ù<À ùVÀ ùlÀ ùmÀ ù£À ù¤À ùİÀ ùáÀ ùâÀ úÀ ú"À úrÀ úÁÀ úÏÀ úÕÀ ûÀ û À ûIÀ ûeÀ ûvÀ ûzÀ û{À ûÈÀ ûãÀ ûïÀ ûıÀ üÀ ü<À üeÀ üƒÀ ü„À üÓÀ üúÀ ıÀ ıOÀ ıšÀ ıßÀ ı÷À ıøÀ şÀ ş/À şMÀ şTÀ şXÀ şYÀ ş¯À şèÀ ÿÀ ÿMÀ ÿTÀ ÿ”À ÿÒÀ ÿÙÀ (À wÀ ‡À ÃÀ æÀ
+ÀWÀpÀ‰ÀÀàÀîÀùÀÀÀÀÀÀÀgÀ¨ÀŞÀ%ÀMÀ“À—À˜ÀàÀ!ÀPÀ’À¼ÀßÀòÀøÀ"À#À_À‚À¦ÀÕÀÀ+ÀLÀ`À«À¶À¾ÀÄÀÅÀÖÀÚÀÛÀ,À:À@ÀÀàÀæÀ3À‚ÀÀ¬ÀÁÀÛÀ	À	À	PÀ	ŒÀ	“À	±À	ğÀ	öÀ
+À
+>À
+xÀ
+•À
+ØÀ
+ŞÀ
+ßÀÀ=À]ÀšÀ À¡À³ÀüÀÀÀÀXÀ^À¨ÀóÀÀÀjÀ»ÀÀUÀyÀ…À§À¼ÀÚÀÀÀoÀ¼ÀÀ.À5À‚ÀÁÀåÀæÀ
+ÀAÀtÀ¡ÀÉÀâÀãÀıÀ5À|À‹À×À(ÀsÀˆÀµÀĞÀêÀöÀÀÀÀÀ/ÀtÀzÀ{À£ÀñÀ ÀaÀÀÓÀãÀõÀÀÀ<ÀIÀ|ÀÊÀÀSÀTÀ¡À½ÀÀRÀ’À“ÀÀÀÀ]À§À²À À?ÀJÀ™ÀéÀÀLÀiÀjÀ¸ÀÀSÀoÀ§ÀïÀúÀHÀ|À§ÀÏÀÙÀÚÀ&ÀNÀmÀ¦À¼ÀØÀïÀ&À'ÀmÀ£À·ÀÊÀ À ;À HÀ RÀ SÀ ‹À ÛÀ ãÀ éÀ êÀ üÀ!À!<À!^À!gÀ!nÀ!rÀ!sÀ!ÂÀ!ÎÀ!ìÀ"À"À"=À"IÀ"”À"¨À"¬À"­À"ıÀ#	À#(À#=À#XÀ#zÀ#†À#ĞÀ#äÀ#èÀ#éÀ$4À$IÀ$–À$¶À$ıÀ%À%À%À%JÀ%‰À%©À%ªÀ%úÀ&À&À&bÀ&®À&ÔÀ&ÚÀ'.À':À'[À'pÀ'À'°À'¼À'ÖÀ'×À'òÀ(À(#À($À(:À(>À(?À(€À(†À(ĞÀ)À)<À)HÀ)gÀ)|À)‹À)ÀÀ)ÌÀ)âÀ*À*%À*DÀ*€À*ŠÀ*‘À*ÊÀ*ÎÀ*ÏÀ+À+KÀ+QÀ+À+îÀ,À,À,aÀ,¨À,ùÀ-EÀ-UÀ-aÀ-‚À-—À-´À-ëÀ-÷À.À.9À.\À.ªÀ.ÈÀ/	À/À/5À/UÀ/VÀ/rÀ/­À/ÍÀ/éÀ0À0À0À09À0xÀ0yÀ0À0À0êÀ1À1(À1qÀ1¾À1úÀ2"À2KÀ2€À2ŒÀ2ÅÀ2ÙÀ2õÀ3À3XÀ3‹À3´À3ĞÀ3İÀ3çÀ3èÀ4/À40À4WÀ4€À4ˆÀ4±À4äÀ5À5\À5‘À5£À5·À5×À6(À6BÀ6MÀ6UÀ6VÀ6˜À6àÀ7À7-À7zÀ7ÈÀ7áÀ8À8%À8BÀ8‡À8ÖÀ8àÀ9À9bÀ9²À9ÑÀ9İÀ:À:;À:eÀ:ƒÀ: À:«À:şÀ;MÀ; À;ñÀ<@À<‡À<ÎÀ<àÀ<ôÀ=À=+À=iÀ=tÀ=•À=ÁÀ=áÀ=úÀ>5À>VÀ>bÀ>jÀ>–À>²À>ÒÀ?À?bÀ?®À?ÉÀ?İÀ?öÀ@?À@UÀ@hÀ@ªÀ@ÈÀ@×ÀAÀA-ÀAlÀAyÀAÀAªÀAõÀBÀB$ÀBhÀBˆÀB™ÀBßÀBõÀC8ÀCTÀCÀC©ÀC±ÀCÕÀCáÀDÀD=ÀDMÀDkÀDˆÀD“ÀD”ÀD¹ÀDÛÀDıÀE6ÀEYÀEgÀE“ÀEáÀEõÀF	ÀFXÀF˜ÀF»ÀFİÀFùÀGÀGÀG:ÀG\ÀGÀG±ÀG¿ÀGÉÀGõÀHÀH5ÀHpÀH‘ÀHÀH¥ÀHáÀI"ÀI3ÀICÀIZÀIªÀIËÀIåÀJ
+ÀJ9ÀJrÀJŠÀJ“ÀJ²ÀJ¸ÀJ¹ÀJøÀJüÀJıÀK5ÀKcÀKzÀKÀKšÀKÈÀKåÀKöÀKüÀKıÀL3ÀLZÀLxÀL‰ÀLÀLÀLÈÀLêÀLûÀMÀMÀM&ÀM*ÀM+ÀMpÀM©ÀMÍÀNÀNLÀNMÀNtÀN¬ÀN÷ÀNıÀNşÀOÀOÀOÀO\ÀO…ÀO‹ÀOºÀOãÀP.ÀPXÀP›ÀPÓÀPÔÀQÀQ'ÀQ-ÀQ.ÀQhÀQ’ÀQ¹ÀQ½ÀQ¾ÀRÀRÀRUÀR•ÀRÉÀRŞÀRôÀSÀSÀSDÀSSÀSlÀSŠÀS¥ÀS×ÀSáÀSêÀS÷ÀTÀTSÀTjÀT»ÀU
+ÀUPÀUÀUÔÀUÜÀUâÀUæÀUçÀV6ÀV<ÀVŒÀV¼ÀWÀW3ÀW[ÀW\ÀW«ÀWÒÀXÀXKÀXLÀX˜ÀXéÀY7ÀYpÀY§ÀY¨ÀYöÀZ1ÀZ^ÀZjÀZŒÀZÇÀZ÷À[IÀ[—À[ÑÀ[İÀ[ôÀ\EÀ\”À\çÀ]7À]‰À]¢À]ÚÀ]âÀ]èÀ]éÀ^3À^À^À^ÍÀ^ëÀ_À_7À_tÀ_|À_¼À_ÈÀ`À`+À`vÀ`ŠÀ`¡À`ÜÀaÀaÀa/Àa8Àa9Àa|Àa©ÀaÆÀaåÀbÀb$Àb%ÀbcÀbŒÀbÀbÜÀc%Àc_Àc`Àc±ÀdÀd7ÀdYÀdœÀd¼ÀdÎÀdÏÀeÀe>ÀeWÀe£Àe¼Àf
+ÀfÀfXÀfŠÀfÃÀfÿÀg ÀgOÀg™Àg´ÀgĞÀgâÀgêÀgëÀhÀhKÀh]ÀhvÀh”Àh®ÀhÀÀiÀi-ÀiNÀiYÀibÀihÀiiÀi|Ài€ÀiÀiÄÀjÀj'Àj\ÀjxÀjÀj¦Àj²ÀjÿÀkÀkÀk9ÀkLÀkRÀkSÀk†ÀkÀk¤Àk¥ÀkìÀkşÀl/ÀlsÀltÀl”Àl®ÀlÃÀlïÀmÀmÀmÀmÀm(Àm9ÀmqÀmºÀnÀnNÀnmÀnnÀn›ÀnœÀn¾ÀnáÀo*ÀosÀo©ÀoìÀpÀpQÀpWÀp[Àp\ÀpiÀpzÀp¶ÀpÕÀpÖÀq#ÀqPÀqTÀqUÀqbÀqsÀq­ÀqöÀrDÀrŠÀr©ÀrªÀrêÀsÀsÀs2ÀsÀs©ÀsÙÀtÀt!Àt?ÀtJÀtYÀt_ÀtcÀtdÀt®ÀtşÀuÀukÀu§ÀuºÀuÀÀuÖÀvÀvÀvÀvhÀv³ÀvÅÀvçÀw	Àw2Àw8Àw€ÀwÆÀxÀxFÀx^ÀxnÀxŠÀx¦Àx»ÀxÄÀxËÀxÏÀxĞÀyÀy'Ày8ÀyrÀy–ÀyÙÀzÀzÀzÀzÀz_Àz†Àz Àz¦ÀzçÀ{$À{fÀ{gÀ{ŒÀ{À{¨À{ãÀ{éÀ|À|;À|AÀ|ZÀ|“À|™À|À|À|«À|¼À|öÀ}À}À}0À}{À}§À}ÓÀ~À~(À~VÀ~À~­À~³À~·À~¸À	ÀNÀTÀŸÀ¾ÀãÀÿÀ€À€0À€<À€yÀ€“À€¡À€§À€¨À€ËÀ€ëÀ€ùÀ€ÿÀ(À?ÀMÀSÀTÀˆÀ®À¼ÀÂÀÃÀÿÀ‚À‚0À‚NÀ‚tÀ‚”À‚åÀƒÀƒ#Àƒ'Àƒ(Àƒ5ÀƒFÀƒ}ÀƒœÀƒÀƒìÀ„À„?À„gÀ„—À„ÆÀ…
+À…À…À…À…(À…=À…bÀ…xÀ…‚À…¥À…¬À…°À…±À…İÀ†
+À†À†À†;À†hÀ†lÀ†mÀ†À†·À†ÜÀ†üÀ‡À‡À‡À‡,À‡GÀ‡cÀ‡¯À‡µÀ‡¹À‡ºÀ‡ÿÀˆÀˆVÀˆŒÀˆÀÀ‰ À‰0À‰6À‰7À‰…À‰ĞÀŠÀŠ-ÀŠDÀŠnÀŠtÀŠuÀŠÃÀŠüÀ‹#À‹EÀ‹ŒÀ‹¿À‹óÀ‹÷À‹øÀŒ.ÀŒ4ÀŒ…ÀŒÂÀŒàÀŒøÀÀÀAÀdÀhÀiÀ´ÀÃÀÀ>ÀEÀIÀJÀ‹ÀšÀÖÀÀÀÀÀPÀ_À›ÀÈÀÏÀÓÀÔÀÀÀ`À•ÀÛÀ‘À‘XÀ‘^À‘›À‘ĞÀ’	À’À’=À’AÀ’BÀ’À’ÃÀ“À“8À“cÀ“’À“²À“³À“ÆÀ“ÕÀ“üÀ”À”#À”YÀ”`À”aÀ”zÀ”“À”¬À”×À•À•À•'À•cÀ•À•ÁÀ•ÈÀ•ÌÀ•ÍÀ–À–CÀ–IÀ–—À–áÀ—*À—:À—uÀ—™À—ŸÀ—İÀ—áÀ—âÀ˜-À˜3À˜€À˜«À˜àÀ™$À™QÀ™wÀ™€À™¤À™»À™èÀ™ìÀ™íÀš>ÀšcÀšiÀš·À›À›>À›ˆÀ›’À›­À›ÎÀœÀœ_Àœ®ÀœûÀIÀcÀœÀ±À¹ÀºÀÀVÀ¡ÀñÀŸ&ÀŸZÀŸÀŸ¬ÀŸÃÀŸÍÀŸÎÀ À hÀ §À áÀ¡-À¡DÀ¡NÀ¡VÀ¡WÀ¡¦À¡µÀ¡»À¡¿À¡ÀÀ¢À¢bÀ¢®À¢¯À¢şÀ£À£À£`À£˜À£ÀÀ£ãÀ¤!À¤BÀ¤À¤ƒÀ¤„À¤ÅÀ¤ËÀ¥À¥kÀ¥‡À¥¯À¥ÆÀ¥ÙÀ¥ıÀ¦À¦AÀ¦`À¦mÀ¦€À¦†À¦ŠÀ¦‹À¦ÒÀ§
+À§;À§qÀ§œÀ§¢À§²À§¶À§¸À§¹À¨	À¨6À¨:À¨ˆÀ¨ÏÀ¨àÀ¨äÀ©/À©:À©ŠÀ©²À©ûÀª'ÀªbÀªcÀª±ÀªËÀª×ÀªîÀªïÀ«À«0À«1À«\À«xÀ«yÀ«ÈÀ«çÀ¬À¬À¬VÀ¬\À¬¨À¬ÏÀ¬ÕÀ­À­=À­eÀ­fÀ­‚À­ƒÀ­®À­´À®À®PÀ®‹À®ªÀ®°À®üÀ¯FÀ¯—À¯°À¯±À¯âÀ¯èÀ°4À°‚À°ÅÀ°ËÀ±À±-À±IÀ±JÀ±šÀ±¼À±ÂÀ±ıÀ²?À²À²³À²´À²ÓÀ²åÀ³ À³À³'À³:À³UÀ³gÀ³|À³À³°À³ÀÀ³ÏÀ³ŞÀ´ À´À´FÀ´iÀ´À´¸À´ÔÀ´ÿÀµÀµ%Àµ&ÀµVÀµ‰Àµ½Àµ÷À¶9À¶TÀ¶—À¶ÕÀ·
+À·EÀ·•À·®À·¯À·»À·àÀ·ûÀ¸,À¸HÀ¸pÀ¸¤À¸ğÀ¹3À¹dÀ¹À¹ÊÀºÀºÀºÀºZÀº‰Àº‹ÀºŒÀºÖÀºèÀ»À»À»'À»(À»eÀ»fÀ»¬À»­À»ûÀ¼À¼RÀ¼SÀ¼‰À¼§À¼ºÀ¼÷À½
+À½À½+À½1À½5À½7    dartMimeTypemaxToStringsPerEvaluationthreadExceptionExpression	_noResult_evalErrorMessagePattern_exceptionMessagePattern_trailingSemicolonPatternDartAttachRequestArguments&DartCommonLaunchAttachRequestArgumentsDartDebugAdapterDartLaunchRequestArguments_DdsCapabilities —0
