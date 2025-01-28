@@ -1,0 +1,9 @@
+import 'dart:math';
+
+// Fungsi anonim (lambda) untuk menghitung luas lingkaran
+var luasLingkaran = (double r) => pi * r * r;
+
+void main() {
+  double jariJari = 7;
+  print("Luas lingkaran dengan jari-jari $jariJari adalah ${luasLingkaran(jariJari).toStringAsFixed(2)}");
+}
