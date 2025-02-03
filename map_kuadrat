@@ -1,0 +1,6 @@
+void main (){
+  List<int> angka = [12,49,62,52,56];
+
+  List<int> kuadrat = angka.map((x) => x * x ).toList();
+  print(kuadrat);
+}
