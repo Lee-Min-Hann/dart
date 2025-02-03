@@ -1,0 +1,37 @@
+import 'dart:io'; // Import untuk interaksi dengan pengguna
+
+// Fungsi untuk menghitung faktorial menggunakan iterasi
+int hitungFaktorial(int angka) {
+  if (angka < 0) {
+    throw ArgumentError("Faktorial tidak berlaku untuk bilangan negatif.");
+  }
+  
+  int hasil = 1;
+  for (int i = 1; i <= angka; i++) {
+    hasil *= i; // Perkalian iteratif untuk menghitung faktorial
+  }
+  
+  return hasil;
+}
+
+void main() {
+  while (true) {
+    print("Masukkan angka untuk menghitung faktorial atau ketik 'keluar' untuk mengakhiri program: ");
+    String? input = stdin.readLineSync(); // Ambil input dari pengguna
+
+    // Cek apakah pengguna ingin keluar dari program
+    if (input == null || input.toLowerCase() == 'keluar') {
+      print("Terima kasih telah menggunakan program ini!");
+      break;
+    }
+
+    try {
+      // Ubah input menjadi angka dan hitung faktorial
+      int angka = int.parse(input);
+      int hasil = hitungFaktorial(angka);
+      print("Hasil faktorial dari $angka adalah $hasil");
+    } catch (e) {
+      print("Terjadi kesalahan: masukkan angka yang valid.");
+    }
+  }
+}
