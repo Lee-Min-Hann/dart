@@ -1,0 +1,20 @@
+class Person {
+  String nama;
+  int usia;
+
+  // Konstruktor
+  Person(this.nama, this.usia);
+
+  // Method untuk menampilkan informasi
+  void tampilkanInfo() {
+    print("Nama: $nama, Usia: $usia tahun");
+  }
+}
+
+void main() {
+  // Membuat objek dari kelas Person
+  Person orang1 = Person("Andi", 25);
+  
+  // Menampilkan informasi objek
+  orang1.tampilkanInfo();
+}
