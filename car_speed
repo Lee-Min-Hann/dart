@@ -1,0 +1,33 @@
+class Car {
+  // Private field untuk menyimpan kecepatan
+  int _speed = 0;
+
+  // Getter untuk membaca kecepatan
+  int get speed => _speed;
+
+  // Setter untuk mengubah kecepatan dengan validasi
+  set speed(int value) {
+    if (value < 0) {
+      print("Kecepatan tidak bisa negatif. Mengatur ke 0.");
+      _speed = 0;
+    } else if (value > 200) {
+      print("Kecepatan maksimum adalah 200 km/jam. Mengatur ke 200.");
+      _speed = 200;
+    } else {
+      _speed = value;
+    }
+  }
+}
+
+void main() {
+  Car myCar = Car();
+
+  myCar.speed = 50; // Mengatur kecepatan ke 50
+  print("Kecepatan saat ini: ${myCar.speed} km/jam");
+
+  myCar.speed = -10; // Coba mengatur kecepatan negatif
+  print("Kecepatan saat ini: ${myCar.speed} km/jam");
+
+  myCar.speed = 250; // Coba melebihi batas maksimum
+  print("Kecepatan saat ini: ${myCar.speed} km/jam");
+}
