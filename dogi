@@ -1,0 +1,34 @@
+class Animal {
+  String name;
+  int age;
+
+  Animal(this.name, this.age);
+
+  void makeSound() {
+    print("Hewan bersuara...");
+  }
+}
+
+class Dog extends Animal {
+  String breed;
+
+  Dog(String name, int age, this.breed) : super(name, age);
+
+  @override
+  void makeSound() {
+    print("$name menggonggong: Woof! Woof!");
+  }
+
+  void fetch() {
+    print("$name sedang mengambil bola!");
+  }
+}
+
+void main() {
+  Dog myDog = Dog("Buddy", 3, "Golden Retriever");
+  print("Nama anjing: \${myDog.name}");
+  print("Usia: \${myDog.age} tahun");
+  print("Ras: \${myDog.breed}");
+  myDog.makeSound();
+  myDog.fetch();
+}
